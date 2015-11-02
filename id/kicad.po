@@ -302,11 +302,11 @@ msgstr "Tentang KiCad"
 #: 3d-viewer/3d_toolbar.cpp:135 gerbview/menubar.cpp:245
 #: pagelayout_editor/menubar.cpp:172
 msgid "&File"
-msgstr ""
+msgstr "&File"
 
 #: kicad/menubar.cpp:427
 msgid "&Browse"
-msgstr ""
+msgstr "&Cari dan Pilih"
 
 #: kicad/menubar.cpp:428 cvpcb/menubar.cpp:142 3d-viewer/3d_toolbar.cpp:154
 #: gerbview/menubar.cpp:246 pagelayout_editor/menubar.cpp:173
@@ -340,15 +340,15 @@ msgstr "Perbarui Project Tree"
 
 #: kicad/prjconfig.cpp:111
 msgid "System Templates"
-msgstr ""
+msgstr "System Templates"
 
 #: kicad/prjconfig.cpp:117
 msgid "User Templates"
-msgstr ""
+msgstr "User Templates"
 
 #: kicad/prjconfig.cpp:131
 msgid "Portable Templates"
-msgstr ""
+msgstr "Portable Templates"
 
 #: kicad/prjconfig.cpp:141
 msgid "No project template was selected.  Cannot generate new project."
@@ -363,11 +363,11 @@ msgstr ""
 
 #: kicad/prjconfig.cpp:154
 msgid "Problem whilst creating new project from template!"
-msgstr ""
+msgstr "Ada masalah saat membuat proyek baru dari template"
 
 #: kicad/prjconfig.cpp:155
 msgid "Template Error"
-msgstr ""
+msgstr "Portable Templates"
 
 #: kicad/prjconfig.cpp:234
 msgid "Create New Project"
@@ -375,7 +375,7 @@ msgstr "Buat proyek baru"
 
 #: kicad/prjconfig.cpp:239
 msgid "Open Existing Project"
-msgstr ""
+msgstr "Buka proyek yang ada"
 
 #: kicad/prjconfig.cpp:265
 msgid ""
@@ -384,15 +384,19 @@ msgid ""
 "\n"
 "Do you want to create a new empty directory for the project?"
 msgstr ""
+"Direktori yang dipilih tidak kosong. Disarankan membuat proyek di "
+"direktorinya sendiri yang kosong.\n"
+"\n"
+"Ingin membuat direktori baru yang kosong  utk proyek ini ? "
 
 #: kicad/prjconfig.cpp:308
 #, c-format
 msgid "KiCad project file '%s' not found"
-msgstr ""
+msgstr "Proyek KiCad '%s\" tidak ditemukan"
 
 #: kicad/prjconfig.cpp:321
 msgid "To proceed, you can use the File menu to start a new project."
-msgstr ""
+msgstr "Untuk melanjutkan, melalui File Menu, buatlah proyek baru."
 
 #: kicad/prjconfig.cpp:335 pcbnew/pcbframe.cpp:969 pcbnew/moduleframe.cpp:764
 #: eeschema/libedit.cpp:61 eeschema/schframe.cpp:1312 cvpcb/cvframe.cpp:716
@@ -405,7 +409,7 @@ msgstr "Folder Proyek Baru"
 
 #: kicad/files-io.cpp:46
 msgid "Zip file (*.zip)|*.zip"
-msgstr ""
+msgstr "Proyek KiCad '%s\" tidak ditemukan"
 
 #: kicad/files-io.cpp:52
 msgid "KiCad project file"
@@ -426,7 +430,7 @@ msgstr ""
 
 #: kicad/files-io.cpp:88
 msgid "Target Directory"
-msgstr ""
+msgstr "Target Directory"
 
 #: kicad/files-io.cpp:95
 #, c-format
@@ -479,11 +483,11 @@ msgstr ""
 
 #: kicad/class_treeproject_item.cpp:112
 msgid "Rename File"
-msgstr ""
+msgstr "Ubah nama file"
 
 #: kicad/class_treeproject_item.cpp:121
 msgid "Unable to rename file ... "
-msgstr ""
+msgstr "Nama file tidak dapat dirubah ..."
 
 #: kicad/class_treeproject_item.cpp:122
 msgid "Permission error ?"
@@ -492,7 +496,7 @@ msgstr ""
 #: kicad/class_treeproject_item.cpp:135
 #, c-format
 msgid "Do you really want to delete '%s'"
-msgstr ""
+msgstr "Sungguh akan menghapus file '%s' ?"
 
 #: kicad/class_treeproject_item.cpp:140
 msgid "Delete File"
@@ -586,7 +590,7 @@ msgstr "Ubah nama-file : '%s'"
 
 #: kicad/tree_project_frame.cpp:756
 msgid "Change filename"
-msgstr ""
+msgstr "Ganti nama file"
 
 #: kicad/mainframe.cpp:249
 #, c-format
@@ -600,11 +604,11 @@ msgstr ""
 
 #: kicad/mainframe.cpp:441
 msgid "Text file ("
-msgstr ""
+msgstr "File teks ("
 
 #: kicad/mainframe.cpp:444
 msgid "Load File to Edit"
-msgstr ""
+msgstr "Muat file untuk diedit"
 
 #: kicad/mainframe.cpp:498
 #, c-format
@@ -612,6 +616,8 @@ msgid ""
 "Project name:\n"
 "%s\n"
 msgstr ""
+"Nama proyek  :\n"
+"%s\n"
 
 #: kicad/dialogs/dialog_template_selector.cpp:120
 msgid "<html><h1>Template Selector</h1></html>"
@@ -939,16 +945,16 @@ msgstr ""
 #: pcbnew/modedit_onclick.cpp:343 pcbnew/onrightclick.cpp:882
 #: eeschema/libedit_onrightclick.cpp:188 eeschema/onrightclick.cpp:597
 msgid "Move Text"
-msgstr ""
+msgstr "Geser Teks"
 
 #: pcbnew/modedit_onclick.cpp:349 pcbnew/onrightclick.cpp:892
 #: eeschema/libedit_onrightclick.cpp:197 eeschema/onrightclick.cpp:605
 msgid "Rotate Text"
-msgstr ""
+msgstr "Putar Teks"
 
 #: pcbnew/modedit_onclick.cpp:362
 msgid "Duplicate Text"
-msgstr ""
+msgstr "Duplikasi Teks"
 
 #: pcbnew/modedit_onclick.cpp:367
 msgid "Create Text Array"
@@ -8604,7 +8610,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:109
 msgid "Info:"
-msgstr ""
+msgstr "Keterangan :"
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:111
 msgid "Default Vias Drill:"
@@ -8624,7 +8630,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:130
 msgid "Holes Count:"
-msgstr ""
+msgstr "Jumlah Hole :"
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:132
 msgid "Plated Pads:"
@@ -8668,22 +8674,22 @@ msgstr ""
 #: eeschema/dialogs/dialog_plot_schematic_base.cpp:146
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1172
 msgid "Messages:"
-msgstr ""
+msgstr "Pesan"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:25
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:25
 msgid "Cartesian coordinates"
-msgstr ""
+msgstr "Koordinat Cartesian"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:25
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:25
 msgid "Polar coordinates"
-msgstr ""
+msgstr "Koordinal Polar"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:27
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:27
 msgid "Coordinates"
-msgstr ""
+msgstr "Koordinat"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:29
 msgid ""
@@ -8699,17 +8705,17 @@ msgstr ""
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:41
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:37
 msgid "Small cross"
-msgstr ""
+msgstr "Silang kecil"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:41
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:37
 msgid "Full screen cursor"
-msgstr ""
+msgstr "Kursor layar penuh"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:43
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:39
 msgid "Cursor"
-msgstr ""
+msgstr "Kursor"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:45
 msgid "Main cursor shape selection (small cross or large cursor)"
@@ -8738,7 +8744,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:85
 msgid "&Rotation angle:"
-msgstr ""
+msgstr "&Sudut rotasi :"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:90
 msgid "Context menu and hot key footprint rotation increment."
@@ -8755,7 +8761,7 @@ msgstr ""
 #: eeschema/dialogs/dialog_edit_component_in_lib_base.cpp:112
 #: bitmap2component/bitmap2cmp_gui_base.cpp:137
 msgid "Options"
-msgstr ""
+msgstr "Opsi"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:100
 msgid "&Enforce design rules when routing"
@@ -8828,19 +8834,19 @@ msgstr ""
 #: pcbnew/dialogs/dialog_display_options_base.cpp:31
 #: pcbnew/dialogs/dialog_display_options_base.cpp:53
 msgid "Never"
-msgstr ""
+msgstr "Tidak pernah"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:146
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:154
 msgid "When creating tracks"
-msgstr ""
+msgstr "Saat membuat trek"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:146
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:154
 #: pcbnew/dialogs/dialog_display_options_base.cpp:31
 #: pcbnew/dialogs/dialog_display_options_base.cpp:53
 msgid "Always"
-msgstr ""
+msgstr "Selalu"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:148
 msgid "Magnetic Pads"
@@ -8864,7 +8870,7 @@ msgstr ""
 #: cvpcb/dialogs/dialog_display_options_base.cpp:41
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:84
 msgid "Pan and Zoom"
-msgstr ""
+msgstr "Pan dan Zoom"
 
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:165
 #: eeschema/dialogs/dialog_eeschema_options_base.cpp:193
@@ -8914,7 +8920,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_export_idf_base.cpp:19
 msgid "File name:"
-msgstr ""
+msgstr "Nama File :"
 
 #: pcbnew/dialogs/dialog_export_idf_base.cpp:23
 msgid "Select an IDF export filename"
@@ -9203,18 +9209,18 @@ msgstr ""
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:87
 #: eeschema/dialogs/dialog_sch_edit_sheet_pin_base.cpp:39
 msgid "Text height:"
-msgstr ""
+msgstr "Tinggi teks :"
 
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:57
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:95
 #: eeschema/dialogs/dialog_sch_edit_sheet_pin_base.cpp:51
 msgid "Text width:"
-msgstr ""
+msgstr "Lebar Teks : "
 
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:69
 #: pcbnew/dialogs/dialog_display_options_base.cpp:68
 msgid "Footprints:"
-msgstr ""
+msgstr "Footprint :"
 
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:71
 msgid "Edge width:"
@@ -9222,7 +9228,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:79
 msgid "Text thickness:"
-msgstr ""
+msgstr "Ketebalan Teks :"
 
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:107
 msgid "General:"
@@ -9265,7 +9271,7 @@ msgstr ""
 #: pcbnew/dialogs/dialog_pns_diff_pair_dimensions_base.cpp:25
 #: common/dialogs/dialog_page_settings_base.cpp:78
 msgid "Width:"
-msgstr ""
+msgstr "Lebar :"
 
 #: pcbnew/dialogs/dialog_global_modules_fields_edition_base.cpp:73
 #: pcbnew/dialogs/dialog_global_modules_fields_edition_base.cpp:85
@@ -9295,18 +9301,18 @@ msgstr ""
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:254
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:268
 msgid "unit"
-msgstr ""
+msgstr "unit"
 
 #: pcbnew/dialogs/dialog_global_modules_fields_edition_base.cpp:77
 #: pcbnew/dialogs/dialog_pcb_text_properties_base.cpp:76
 #: common/dialogs/dialog_page_settings_base.cpp:62
 msgid "Height:"
-msgstr ""
+msgstr "Tinggi : "
 
 #: pcbnew/dialogs/dialog_global_modules_fields_edition_base.cpp:89
 #: pcbnew/dialogs/dialog_pcb_text_properties_base.cpp:112
 msgid "Thickness:"
-msgstr ""
+msgstr "Ketebalan :"
 
 #: pcbnew/dialogs/dialog_print_for_modedit.cpp:87
 msgid "An error occurred initializing the printer information."
@@ -9318,15 +9324,15 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 msgid "Scale 1"
-msgstr ""
+msgstr "Skala 1"
 
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 msgid "Scale 8"
-msgstr ""
+msgstr "Skala 8"
 
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 msgid "Scale 16"
-msgstr ""
+msgstr "Skala 16"
 
 #: pcbnew/dialogs/dialog_cleaning_options_base.cpp:22
 msgid "&Delete redundant vias"
@@ -9359,28 +9365,28 @@ msgstr ""
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:32
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:84
 msgid "Table:"
-msgstr ""
+msgstr "Tabel : "
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:36
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:88
 msgid "Table Name"
-msgstr ""
+msgstr "Nama Table"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:74
 msgid "Global Libraries"
-msgstr ""
+msgstr "Librari Global"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:126
 msgid "Project Specific Libraries"
-msgstr ""
+msgstr "Librari Khusus Proyek"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:133
 msgid "Append with Wizard"
-msgstr ""
+msgstr "Tambah dengan Bantuan Pintar"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:136
 msgid "Append Library"
-msgstr ""
+msgstr "Tambah Librari"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:137
 msgid "Add a PCB library row to this table"
@@ -9388,7 +9394,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:141
 msgid "Remove Library"
-msgstr ""
+msgstr "Hapus Library"
 
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:142
 msgid "Remove a PCB library from this library table"
@@ -9435,11 +9441,11 @@ msgstr ""
 
 #: pcbnew/dialogs/wizard_add_fplib_base.cpp:38
 msgid "Files on my computer"
-msgstr ""
+msgstr "File di komputer saya"
 
 #: pcbnew/dialogs/wizard_add_fplib_base.cpp:46
 msgid "Github repository"
-msgstr ""
+msgstr "Repositori GitHub"
 
 #: pcbnew/dialogs/wizard_add_fplib_base.cpp:49
 msgid "https://github.com/KiCad"
@@ -9473,7 +9479,7 @@ msgstr ""
 #: pcbnew/dialogs/wizard_add_fplib_base.cpp:151
 #: pcbnew/dialogs/wizard_3DShape_Libs_downloader_base.cpp:137
 msgid "Select all"
-msgstr ""
+msgstr "Pilih Semua"
 
 #: pcbnew/dialogs/wizard_add_fplib_base.cpp:154
 #: pcbnew/dialogs/wizard_3DShape_Libs_downloader_base.cpp:140
@@ -9521,11 +9527,11 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_global_edit_tracks_and_vias_base.cpp:82
 msgid "Track size"
-msgstr ""
+msgstr "Ukuran Trek"
 
 #: pcbnew/dialogs/dialog_global_edit_tracks_and_vias_base.cpp:83
 msgid "Via diameter"
-msgstr ""
+msgstr "Diameter Via"
 
 #: pcbnew/dialogs/dialog_global_edit_tracks_and_vias_base.cpp:84
 msgid "Via drill"
@@ -20495,22 +20501,22 @@ msgstr ""
 #: pcb_calculator/transline_ident.cpp:314
 #: pcb_calculator/transline_ident.cpp:418
 msgid "Din"
-msgstr ""
+msgstr "Din"
 
 #: pcb_calculator/transline_ident.cpp:314
 #: pcb_calculator/transline_ident.cpp:418
 msgid "Inner Diameter (conductor)"
-msgstr ""
+msgstr "Diameter dalam ( konduktor )"
 
 #: pcb_calculator/transline_ident.cpp:316
 #: pcb_calculator/transline_ident.cpp:420
 msgid "Dout"
-msgstr ""
+msgstr "Dout"
 
 #: pcb_calculator/transline_ident.cpp:316
 #: pcb_calculator/transline_ident.cpp:420
 msgid "Outer Diameter (insulator)"
-msgstr ""
+msgstr "Diameter luar ( konduktor )"
 
 #: pcb_calculator/transline_ident.cpp:332
 msgid "ErEff Even"
@@ -20562,11 +20568,11 @@ msgstr ""
 
 #: pcb_calculator/transline_ident.cpp:410
 msgid "Twists"
-msgstr ""
+msgstr "Puntiran"
 
 #: pcb_calculator/transline_ident.cpp:410
 msgid "Number of Twists per Length"
-msgstr ""
+msgstr "Jumlah puntiran per satuan panjang"
 
 #: pcb_calculator/transline_ident.cpp:415
 msgid "ErEnv"
@@ -20578,7 +20584,7 @@ msgstr ""
 
 #: pcb_calculator/transline_ident.cpp:422
 msgid "Cable Length"
-msgstr ""
+msgstr "Panjang kabel"
 
 #: pcb_calculator/tracks_width_versus_current.cpp:446
 msgid ""
@@ -20610,11 +20616,11 @@ msgstr ""
 
 #: pcb_calculator/tracks_width_versus_current.cpp:458
 msgid "where:"
-msgstr ""
+msgstr "dimana :"
 
 #: pcb_calculator/tracks_width_versus_current.cpp:459
 msgid "maximum current in amps"
-msgstr ""
+msgstr "arus maksimum (A\\)"
 
 #: pcb_calculator/tracks_width_versus_current.cpp:461
 msgid "temperature rise above ambient in deg C"
@@ -20670,55 +20676,55 @@ msgstr ""
 
 #: pcb_calculator/regulators_funct.cpp:409
 msgid "Incorrect value for R1 R2"
-msgstr ""
+msgstr "Nilai R1 R2 tidak benar"
 
 #: pcb_calculator/UnitSelector.cpp:39
 msgid "um"
-msgstr ""
+msgstr "um"
 
 #: pcb_calculator/UnitSelector.cpp:40
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: pcb_calculator/UnitSelector.cpp:41
 msgid "mil"
-msgstr ""
+msgstr "mil"
 
 #: pcb_calculator/UnitSelector.cpp:70
 msgid "GHz"
-msgstr ""
+msgstr "GHz"
 
 #: pcb_calculator/UnitSelector.cpp:71
 msgid "MHz"
-msgstr ""
+msgstr "MHz"
 
 #: pcb_calculator/UnitSelector.cpp:72
 msgid "KHz"
-msgstr ""
+msgstr "KHz"
 
 #: pcb_calculator/UnitSelector.cpp:73
 msgid "Hz"
-msgstr ""
+msgstr "Hz"
 
 #: pcb_calculator/UnitSelector.cpp:99
 msgid "Radian"
-msgstr ""
+msgstr "Radian"
 
 #: pcb_calculator/UnitSelector.cpp:100
 msgid "Degree"
-msgstr ""
+msgstr "Derajat"
 
 #: pcb_calculator/UnitSelector.cpp:124
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:389
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:478
 msgid "Ohm"
-msgstr ""
+msgstr "Ohm"
 
 #: pcb_calculator/UnitSelector.cpp:125
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:97
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:112
 msgid "KOhm"
-msgstr ""
+msgstr "KOhm"
 
 #: pcb_calculator/datafile_read_write.cpp:76
 msgid "Data file error."
@@ -20726,20 +20732,20 @@ msgstr ""
 
 #: pcb_calculator/transline_dlg_funct.cpp:66
 msgid "Relative Dielectric Constants"
-msgstr ""
+msgstr "Konstanta Dielektrik Relativ"
 
 #: pcb_calculator/transline_dlg_funct.cpp:96
 msgid "Dielectric Loss Factor"
-msgstr ""
+msgstr "Rugi-rugi Dielektrik"
 
 #: pcb_calculator/transline_dlg_funct.cpp:124
 msgid "Specific Resistance"
-msgstr ""
+msgstr "Koefisien Resistansi"
 
 #: pcb_calculator/attenuators.cpp:107
 #, c-format
 msgid "Attenuation more than %f dB"
-msgstr ""
+msgstr "Redaman lebih dari %f dB"
 
 #: pcb_calculator/pcb_calculator_frame.cpp:144
 msgid ""
@@ -21210,40 +21216,40 @@ msgstr ""
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "10%"
-msgstr ""
+msgstr "10%"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "5%"
-msgstr ""
+msgstr "5%"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "2%"
-msgstr ""
+msgstr "2%"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "1%"
-msgstr ""
+msgstr "1%"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "0.5%"
-msgstr ""
+msgstr "0.5 %"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "0.25%"
-msgstr ""
+msgstr "0.25 %"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "0.1%"
-msgstr ""
+msgstr "0.1 %"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1202
 msgid "0.05%"
-msgstr ""
+msgstr "0.05 %"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1204
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1233
 msgid "Tolerance"
-msgstr ""
+msgstr "Toleransi"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1213
 msgid "1st Band"
@@ -21263,47 +21269,47 @@ msgstr ""
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1229
 msgid "Multiplier"
-msgstr ""
+msgstr "Pengali"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1262
 msgid "Color Code"
-msgstr ""
+msgstr "Kode Warna"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1275
 msgid "Note: Values are minimal values"
-msgstr ""
+msgstr "Catatan : Nilai adalah nilai terkecil"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1294
 msgid "Class 1"
-msgstr ""
+msgstr "Klas 1"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1295
 msgid "Class 2"
-msgstr ""
+msgstr "Klas 2"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1296
 msgid "Class 3"
-msgstr ""
+msgstr "Klas 3"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1297
 msgid "Class 4"
-msgstr ""
+msgstr "Klas 4"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1298
 msgid "Class 5"
-msgstr ""
+msgstr "Klas 5"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1299
 msgid "Class 6"
-msgstr ""
+msgstr "Klas 6"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1306
 msgid "Lines width"
-msgstr ""
+msgstr "Lebar Garis"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1307
 msgid "Min clearance"
-msgstr ""
+msgstr "Jarak aman minimum"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:1308
 msgid "Via: (diam - drill)"
@@ -21327,7 +21333,7 @@ msgstr ""
 
 #: pcb_calculator/dialogs/dialog_regulator_data_base.cpp:51
 msgid "3 terminals regulator"
-msgstr ""
+msgstr "Regulator 3 terminal"
 
 #: pagelayout_editor/pl_editor_frame.cpp:114
 msgid "coord origin: Right Bottom page corner"
@@ -21335,7 +21341,7 @@ msgstr ""
 
 #: pagelayout_editor/pl_editor_frame.cpp:146
 msgid "Design"
-msgstr ""
+msgstr "Rancangan"
 
 #: pagelayout_editor/pl_editor_frame.cpp:200
 #, c-format
@@ -21356,7 +21362,7 @@ msgstr ""
 
 #: pagelayout_editor/pl_editor_frame.cpp:243 pagelayout_editor/files.cpp:175
 msgid "Create file"
-msgstr ""
+msgstr "Buat File"
 
 #: pagelayout_editor/pl_editor_frame.cpp:456
 #, c-format
@@ -21425,7 +21431,7 @@ msgstr ""
 
 #: pagelayout_editor/files.cpp:138
 msgid "Open file"
-msgstr ""
+msgstr "Buka File"
 
 #: pagelayout_editor/files.cpp:163
 #, c-format
@@ -21495,11 +21501,11 @@ msgstr ""
 
 #: pagelayout_editor/menubar.cpp:126 pagelayout_editor/pl_editor_config.cpp:66
 msgid "Hide &Grid"
-msgstr ""
+msgstr "Sembunyikan &Grid"
 
 #: pagelayout_editor/menubar.cpp:126 pagelayout_editor/pl_editor_config.cpp:67
 msgid "Show &Grid"
-msgstr ""
+msgstr "Tampilkan &Grid"
 
 #: pagelayout_editor/menubar.cpp:151
 msgid "Page Layout Editor &Manual"
@@ -21606,14 +21612,14 @@ msgstr ""
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:252
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:307
 msgid "Upper Right"
-msgstr ""
+msgstr "Kanan Atas"
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:52
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:96
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:253
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:308
 msgid "Upper Left"
-msgstr ""
+msgstr "Kiri Atas"
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:52
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:96
@@ -21622,52 +21628,52 @@ msgstr ""
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:306
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:309
 msgid "Lower Right"
-msgstr ""
+msgstr "Kanan Atas"
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:52
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:96
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:255
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:310
 msgid "Lower Left"
-msgstr ""
+msgstr "Kiri Bawah"
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:72
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:273
 msgid "End X (mm)"
-msgstr ""
+msgstr "Ujung akhir X (mm)"
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:79
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:286
 msgid "End Y (mm)"
-msgstr ""
+msgstr "Ujung akhir Y (mm)"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:44
 msgid "Page 1 option"
-msgstr ""
+msgstr "Opsi halaman 1"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:50
 msgid "Page 1 only"
-msgstr ""
+msgstr "Halaman 1 saja"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:50
 msgid "Not on page 1"
-msgstr ""
+msgstr "Tidak di halaman 1"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:80
 msgid "H justification"
-msgstr ""
+msgstr "Justifikasi Hor."
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:99
 msgid "V justification"
-msgstr ""
+msgstr "Justifikasi Ver."
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:124
 msgid "Text Width (mm)"
-msgstr ""
+msgstr "Lebar Teks (mm)"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:137
 msgid "Text Height (mm)"
-msgstr ""
+msgstr "Tinggi Teks (mm)"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:150
 msgid "Constraints:"
@@ -21675,11 +21681,11 @@ msgstr ""
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:160
 msgid "Max Size X (mm)"
-msgstr ""
+msgstr "Ukuran maksimum X (mm)"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:173
 msgid "Max Size Y (mm)"
-msgstr ""
+msgstr "Ukuran maksimum Y (mm)"
 
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:199
 msgid "Comment"
@@ -21956,31 +21962,31 @@ msgstr ""
 
 #: common/dialog_about/dialog_about_base.h:51
 msgid "About..."
-msgstr ""
+msgstr "Tentang ...."
 
 #: common/dialogs/dialog_env_var_config_base.h:53
 msgid "Path Configuration"
-msgstr ""
+msgstr "Konfigurasi Path"
 
 #: common/dialogs/dialog_image_editor_base.h:64
 msgid "Image Editor"
-msgstr ""
+msgstr "Editor Gambar"
 
 #: common/dialogs/dialog_hotkeys_editor_base.h:53
 msgid "Hotkeys Editor"
-msgstr ""
+msgstr "Editor Hotkey"
 
 #: common/dialogs/dialog_page_settings_base.h:121
 msgid "Page Settings"
-msgstr ""
+msgstr "Pengaturan Halaman"
 
 #: eeschema/help_common_strings.h:41
 msgid "Redo last command"
-msgstr ""
+msgstr "Ulang perintah terakhir"
 
 #: eeschema/help_common_strings.h:45
 msgid "Fit schematic sheet on screen"
-msgstr ""
+msgstr "Sesuaikan lembar skema dgn layar"
 
 #: eeschema/help_common_strings.h:46
 msgid "Redraw schematic view"
@@ -21996,19 +22002,19 @@ msgstr ""
 
 #: eeschema/help_common_strings.h:53
 msgid "Place component"
-msgstr ""
+msgstr "Letakkan Komponen"
 
 #: eeschema/help_common_strings.h:54
 msgid "Place power port"
-msgstr ""
+msgstr "Pasang Power Port"
 
 #: eeschema/help_common_strings.h:55
 msgid "Place wire"
-msgstr ""
+msgstr "Tarik sambungan"
 
 #: eeschema/help_common_strings.h:56
 msgid "Place bus"
-msgstr ""
+msgstr "Pasang bus"
 
 #: eeschema/help_common_strings.h:57
 msgid "Place wire to bus entry"
@@ -22041,11 +22047,11 @@ msgstr ""
 
 #: eeschema/help_common_strings.h:68
 msgid "Place junction"
-msgstr ""
+msgstr "Letakkan Junction"
 
 #: eeschema/help_common_strings.h:69
 msgid "Create hierarchical sheet"
-msgstr ""
+msgstr "Buat Lembar Hirarki"
 
 #: eeschema/help_common_strings.h:71
 msgid ""
@@ -22062,7 +22068,7 @@ msgstr ""
 
 #: eeschema/help_common_strings.h:74
 msgid "Place text"
-msgstr ""
+msgstr "Letakkan Teks"
 
 #: eeschema/help_common_strings.h:76
 msgid "Annotate schematic components"
@@ -22110,36 +22116,36 @@ msgstr ""
 
 #: eeschema/sch_marker.h:100
 msgid "ERC Marker"
-msgstr ""
+msgstr "Penanda ERC"
 
 #: eeschema/sch_no_connect.h:88
 msgid "No Connect"
-msgstr ""
+msgstr "No Connect"
 
 #: eeschema/sch_bitmap.h:127
 msgid "Image"
-msgstr ""
+msgstr "Gambar"
 
 #: eeschema/dialogs/dialog_lib_edit_pin_base.h:99
 msgid "Pin Properties"
-msgstr ""
+msgstr "Properti Pin"
 
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.h:103
 #: eeschema/dialogs/dialog_lib_new_component_base.h:62
 msgid "Component Properties"
-msgstr ""
+msgstr "Properti Komponen"
 
 #: eeschema/dialogs/dialog_annotate_base.h:89
 msgid "Annotate Schematic"
-msgstr ""
+msgstr "Anatosi Skema"
 
 #: eeschema/dialogs/dialog_rescue_each_base.h:65
 msgid "Project Rescue Helper"
-msgstr ""
+msgstr "Bantuan Penyelamatan Proyek"
 
 #: eeschema/dialogs/dialog_bom_base.h:93
 msgid "Bill of Material"
-msgstr ""
+msgstr "Daftar Komponen"
 
 #: eeschema/dialogs/dialog_libedit_options_base.h:80
 msgid "Library Editor Options"
@@ -22147,51 +22153,52 @@ msgstr ""
 
 #: eeschema/dialogs/dialog_erc_base.h:83
 msgid "Electrical Rules Checker"
-msgstr ""
+msgstr "Electrical Rules Checker"
 
 #: eeschema/dialogs/dialog_sch_edit_sheet_pin_base.h:56
+#, fuzzy
 msgid "Sheet Pin Properties"
-msgstr ""
+msgstr "Properti Sheet Pin"
 
 #: eeschema/dialogs/dialog_edit_libentry_fields_in_lib_base.h:87
 msgid "Field Properties"
-msgstr ""
+msgstr "Properti Field"
 
 #: eeschema/dialogs/dialog_edit_label_base.h:70
 msgid "Text Editor"
-msgstr ""
+msgstr "Editor Teks"
 
 #: eeschema/dialogs/dialog_plot_schematic_base.h:86
 msgid "Plot Schematic"
-msgstr ""
+msgstr "Plot Skema"
 
 #: eeschema/dialogs/dialog_sch_sheet_props_base.h:60
 msgid "Schematic Sheet Properties"
-msgstr ""
+msgstr "Properti Lembar Skema"
 
 #: eeschema/dialogs/dialog_lib_edit_text_base.h:69
 msgid "Library Text Properties"
-msgstr ""
+msgstr "Properti Teks Librari"
 
 #: eeschema/dialogs/dialog_color_config_base.h:47
 msgid "EESchema Colors"
-msgstr ""
+msgstr "Warna pada EESchema"
 
 #: eeschema/dialogs/dialog_lib_edit_pin_table_base.h:48
 msgid "Pin Table"
-msgstr ""
+msgstr "Tabel Pin"
 
 #: eeschema/dialogs/dialog_eeschema_options_base.h:139
 msgid "Schematic Editor Options"
-msgstr ""
+msgstr "Opsi Editor Skema"
 
 #: eeschema/dialogs/dialog_lib_edit_draw_item_base.h:59
 msgid "Drawing Properties"
-msgstr ""
+msgstr "Properti Gambar"
 
 #: eeschema/dialogs/dialog_netlist_base.h:119
 msgid "Plugins:"
-msgstr ""
+msgstr "Plugin : "
 
 #: cvpcb/common_help_msg.h:28
 msgid "Save footprint association in schematic component footprint fields"
@@ -22199,15 +22206,15 @@ msgstr ""
 
 #: 3d-viewer/dialogs/dialog_3D_view_option_base.h:79
 msgid "3D Display Options"
-msgstr ""
+msgstr "Opsi 3D Display"
 
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.h:65
 msgid "Gerbview Options"
-msgstr ""
+msgstr "Opsi Gerberview"
 
 #: gerbview/dialogs/dialog_show_page_borders_base.h:50
 msgid "Page Borders"
-msgstr ""
+msgstr "Batas Halaman"
 
 #: bitmap2component/bitmap2cmp_gui_base.h:92
 msgid "Bitmap to Component Converter"
@@ -22215,7 +22222,7 @@ msgstr ""
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.h:304
 msgid "PCB Calculator"
-msgstr ""
+msgstr "Kalkulator PCB"
 
 #: pcb_calculator/dialogs/dialog_regulator_data_base.h:62
 msgid "Regulator Parameters"
@@ -22223,7 +22230,7 @@ msgstr ""
 
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.h:71
 msgid "New Item"
-msgstr ""
+msgstr "Elemen Baru"
 
 #: include/common.h:307
 #, c-format
