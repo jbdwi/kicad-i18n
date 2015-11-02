@@ -5,13 +5,13 @@ msgstr ""
 "Project-Id-Version: KiCad 4.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Josef B. Dwiyono <jbdwiyono@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: Indonesian\n"
-"X-Generator: Poedit 1.5.4\n"
+"Language: id\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Poedit-Basepath: ../../kicad-source-mirror\n"
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-KeywordsList: _;_HKI\n"
@@ -37,170 +37,169 @@ msgstr ""
 #: kicad/menubar.cpp:136 pcbnew/hotkeys.cpp:189 eeschema/hotkeys.cpp:118
 #: gerbview/hotkeys.cpp:67 pagelayout_editor/hotkeys.cpp:78
 msgid "Help (this window)"
-msgstr ""
+msgstr "Bantuan"
 
 #: kicad/menubar.cpp:137
 msgid "Load project"
-msgstr ""
+msgstr "Muat Proyek"
 
 #: kicad/menubar.cpp:138
 msgid "Save project"
-msgstr ""
+msgstr "Simpan Proyek"
 
 #: kicad/menubar.cpp:139 kicad/menubar.cpp:244
 msgid "New Project"
-msgstr ""
+msgstr "Proyek Baru"
 
 #: kicad/menubar.cpp:140
 msgid "New Prj From Template"
-msgstr ""
+msgstr "Proyek Baru dari Template"
 
 #: kicad/menubar.cpp:143 kicad/menubar.cpp:363
 msgid "Run Eeschema"
-msgstr ""
+msgstr "Eeschema"
 
 #: kicad/menubar.cpp:144
 msgid "Run LibEdit"
-msgstr ""
+msgstr "LibEdit"
 
 #: kicad/menubar.cpp:145 kicad/menubar.cpp:370 eeschema/menubar.cpp:477
 msgid "Run Pcbnew"
-msgstr ""
+msgstr "Pcbnew"
 
 #: kicad/menubar.cpp:146
 msgid "Run FpEditor"
-msgstr ""
+msgstr "FpEditor"
 
 #: kicad/menubar.cpp:147 kicad/menubar.cpp:378
 msgid "Run Gerbview"
-msgstr ""
+msgstr "Gerberview"
 
 #: kicad/menubar.cpp:148 kicad/menubar.cpp:382
 msgid "Run Bitmap2Component"
-msgstr ""
+msgstr "Bitmap2Component"
 
 #: kicad/menubar.cpp:150
 msgid "Run PcbCalculator"
-msgstr ""
+msgstr "Bitmap2Component"
 
 #: kicad/menubar.cpp:152
 msgid "Run PlEditor"
-msgstr ""
+msgstr "PlEditor"
 
 #: kicad/menubar.cpp:168
 msgid "Kicad Manager Hotkeys"
-msgstr ""
+msgstr "Hotkey Menejer Kicad"
 
 #: kicad/menubar.cpp:213
 msgid "&Open Project"
-msgstr ""
+msgstr "&Buka Proyek"
 
 #: kicad/menubar.cpp:215 kicad/menubar.cpp:476
 msgid "Open existing project"
-msgstr ""
+msgstr "Buka Proyek yang sudah ada"
 
-#: kicad/menubar.cpp:224 pcbnew/menubar_pcbframe.cpp:94
-#: eeschema/menubar.cpp:97
+#: kicad/menubar.cpp:224 pcbnew/menubar_pcbframe.cpp:94 eeschema/menubar.cpp:97
 msgid "Open &Recent"
-msgstr ""
+msgstr "Proyek Terkini"
 
 #: kicad/menubar.cpp:225
 msgid "Open recent schematic project"
-msgstr ""
+msgstr "Buka proyek skema terkini"
 
 #: kicad/menubar.cpp:231
 msgid "&New Project"
-msgstr ""
+msgstr "Proyek Baru"
 
 #: kicad/menubar.cpp:233
 msgid "Create new blank project"
-msgstr ""
+msgstr "Buat proyek baru"
 
 #: kicad/menubar.cpp:236
 msgid "New Project from &Template"
-msgstr ""
+msgstr "Proyek Baru dari &Template"
 
 #: kicad/menubar.cpp:239
 msgid "Create a new project from a template"
-msgstr ""
+msgstr "Buat Proyek Baru dari Template"
 
 #: kicad/menubar.cpp:245 kicad/menubar.cpp:467
 msgid "Create new project"
-msgstr ""
+msgstr "Buat proyek baru"
 
 #: kicad/menubar.cpp:252 pcbnew/menubar_pcbframe.cpp:109
 #: pcbnew/menubar_pcbframe.cpp:566
 msgid "&Save"
-msgstr ""
+msgstr "&Simpan"
 
 #: kicad/menubar.cpp:254 kicad/menubar.cpp:481
 msgid "Save current project"
-msgstr ""
+msgstr "Simpan proyek ini"
 
 #: kicad/menubar.cpp:262
 msgid "&Archive"
-msgstr ""
+msgstr "&Arsipkan"
 
 #: kicad/menubar.cpp:263
 msgid "Archive project files in zip archive"
-msgstr ""
+msgstr "Arsipkan file proyek sbg ZIP"
 
 #: kicad/menubar.cpp:269
 msgid "&Unarchive"
-msgstr ""
+msgstr "&Buka Arsip"
 
 #: kicad/menubar.cpp:270
 msgid "Unarchive project files from zip file"
-msgstr ""
+msgstr "Buka arsip  ZIP"
 
 #: kicad/menubar.cpp:279 pcbnew/menubar_pcbframe.cpp:274
 #: eeschema/menubar.cpp:170 eeschema/dialogs/dialog_erc_base.cpp:98
 #: cvpcb/menubar.cpp:76 gerbview/menubar.cpp:145
 #: pagelayout_editor/menubar.cpp:111
 msgid "&Close"
-msgstr ""
+msgstr "&Tutup"
 
 #: kicad/menubar.cpp:280
 msgid "Close KiCad"
-msgstr ""
+msgstr "Tutup KiCad"
 
 #: kicad/menubar.cpp:289
 msgid "Open Text E&ditor"
-msgstr ""
+msgstr "Buka Teks E&ditor"
 
 #: kicad/menubar.cpp:290
 msgid "Launch preferred text editor"
-msgstr ""
+msgstr "Gunakan teks editor pilihan"
 
 #: kicad/menubar.cpp:296
 msgid "&Open Local File"
-msgstr ""
+msgstr "&Buka Local File"
 
 #: kicad/menubar.cpp:297
 msgid "Edit local file"
-msgstr ""
+msgstr "Sunting local file"
 
 #: kicad/menubar.cpp:306 pcbnew/menubar_modedit.cpp:318
 #: pcbnew/menubar_pcbframe.cpp:495 cvpcb/menubar.cpp:89
 msgid "Configure Pa&ths"
-msgstr ""
+msgstr "Atur Pa&ths"
 
 #: kicad/menubar.cpp:307 pcbnew/menubar_modedit.cpp:319
 #: pcbnew/menubar_pcbframe.cpp:496 cvpcb/menubar.cpp:90
 msgid "Edit path configuration environment variables"
-msgstr ""
+msgstr "Ubah environment-variables dari konfigurasi path"
 
 #: kicad/menubar.cpp:313
 msgid "&Set Text Editor"
-msgstr ""
+msgstr "&Pilih Editor Teks"
 
 #: kicad/menubar.cpp:314
 msgid "Set your preferred text editor"
-msgstr ""
+msgstr "Pilihan editor teks"
 
 #: kicad/menubar.cpp:322
 msgid "System &Default PDF Viewer"
-msgstr ""
+msgstr "Pilihan PDF Viewer  "
 
 #: kicad/menubar.cpp:323
 msgid "Use system default PDF viewer"
@@ -232,41 +231,41 @@ msgstr ""
 
 #: kicad/menubar.cpp:366
 msgid "Run Library Editor"
-msgstr ""
+msgstr "Library Editor"
 
 #: kicad/menubar.cpp:374
 msgid "Run Footprint Editor"
-msgstr ""
+msgstr "Footprint Editor"
 
 #: kicad/menubar.cpp:385 kicad/commandframe.cpp:83
 msgid ""
 "Bitmap2Component - Convert bitmap images to Eeschema\n"
 "or Pcbnew elements"
-msgstr ""
+msgstr "Bitmap2Component - Konversi bitmap ke elemen EeSchema atau PCBnew."
 
 #: kicad/menubar.cpp:389
 msgid "Run Pcb Calculator"
-msgstr ""
+msgstr "PCB Calculator"
 
 #: kicad/menubar.cpp:391 kicad/commandframe.cpp:87
 msgid "Pcb calculator - Calculator for components, track width, etc."
-msgstr ""
+msgstr "PCB Calculator - Kalkulasi komponen, track width dsb."
 
 #: kicad/menubar.cpp:394
 msgid "Run Page Layout Editor"
-msgstr ""
+msgstr "Page Layout Editor"
 
 #: kicad/menubar.cpp:396 kicad/commandframe.cpp:90
 msgid "Pl editor - Worksheet layout editor"
-msgstr ""
+msgstr "PI Editor - Editor worksheet layout"
 
 #: kicad/menubar.cpp:407
 msgid "KiCad &Manual"
-msgstr ""
+msgstr "&Manual KiCad"
 
 #: kicad/menubar.cpp:408
 msgid "Open KiCad user manual"
-msgstr ""
+msgstr "Manual Penggunaan KiCad"
 
 #: kicad/menubar.cpp:412 pcbnew/tool_modview.cpp:194
 #: pcbnew/menubar_modedit.cpp:346 pcbnew/menubar_pcbframe.cpp:653
@@ -274,25 +273,27 @@ msgstr ""
 #: eeschema/menubar_libedit.cpp:269 cvpcb/menubar.cpp:130
 #: gerbview/menubar.cpp:230 pagelayout_editor/menubar.cpp:157
 msgid "&Getting Started in KiCad"
-msgstr ""
+msgstr "&Mulai Menggunakan KiCad"
 
 #: kicad/menubar.cpp:413 eeschema/menubar.cpp:495 cvpcb/menubar.cpp:131
 #: gerbview/menubar.cpp:231 pagelayout_editor/menubar.cpp:158
 msgid "Open \"Getting Started in KiCad\" guide for beginners"
 msgstr ""
+"Petunjuk Penggunaan Bagi Pemula\n"
+"\"Getting Started in KiCad\""
 
 #: kicad/menubar.cpp:421 pcbnew/menubar_modedit.cpp:353
 #: pcbnew/menubar_pcbframe.cpp:659 eeschema/menubar.cpp:501
 #: eeschema/menubar_libedit.cpp:278
 msgid "&About KiCad"
-msgstr ""
+msgstr "&Tentang KiCad"
 
 #: kicad/menubar.cpp:422 pcbnew/menubar_modedit.cpp:354
 #: eeschema/menubar.cpp:502 eeschema/menubar_libedit.cpp:279
 #: cvpcb/menubar.cpp:137 gerbview/menubar.cpp:241
 #: pagelayout_editor/menubar.cpp:168
 msgid "About KiCad"
-msgstr ""
+msgstr "Tentang KiCad"
 
 #: kicad/menubar.cpp:426 pcbnew/tool_modview.cpp:206
 #: pcbnew/menubar_modedit.cpp:358 pcbnew/menubar_pcbframe.cpp:664
@@ -310,12 +311,12 @@ msgstr ""
 #: kicad/menubar.cpp:428 cvpcb/menubar.cpp:142 3d-viewer/3d_toolbar.cpp:154
 #: gerbview/menubar.cpp:246 pagelayout_editor/menubar.cpp:173
 msgid "&Preferences"
-msgstr ""
+msgstr "&Preferensi"
 
 #: kicad/menubar.cpp:429 pcbnew/menubar_pcbframe.cpp:671
 #: eeschema/menubar.cpp:511
 msgid "&Tools"
-msgstr ""
+msgstr "Piran&ti"
 
 #: kicad/menubar.cpp:430 pcbnew/tool_modview.cpp:209
 #: pcbnew/menubar_modedit.cpp:364 pcbnew/menubar_pcbframe.cpp:673
@@ -323,19 +324,19 @@ msgstr ""
 #: eeschema/menubar_libedit.cpp:288 cvpcb/menubar.cpp:143
 #: gerbview/menubar.cpp:248 pagelayout_editor/menubar.cpp:174
 msgid "&Help"
-msgstr ""
+msgstr "&Bantuan"
 
 #: kicad/menubar.cpp:471
 msgid "Create new project from template"
-msgstr ""
+msgstr "Buat proyek baru dgn template"
 
 #: kicad/menubar.cpp:489
 msgid "Archive all project files"
-msgstr ""
+msgstr "Arsipkan semua file proyek"
 
 #: kicad/menubar.cpp:497
 msgid "Refresh project tree"
-msgstr ""
+msgstr "Perbarui Project Tree"
 
 #: kicad/prjconfig.cpp:111
 msgid "System Templates"
@@ -352,6 +353,8 @@ msgstr ""
 #: kicad/prjconfig.cpp:141
 msgid "No project template was selected.  Cannot generate new project."
 msgstr ""
+"Tidak ada project template yang dipilih.\n"
+"TIdak bisa membuat proyek baru."
 
 #: kicad/prjconfig.cpp:143 pcbnew/router/length_tuner_tool.cpp:171
 #: common/confirm.cpp:80
@@ -368,7 +371,7 @@ msgstr ""
 
 #: kicad/prjconfig.cpp:234
 msgid "Create New Project"
-msgstr ""
+msgstr "Buat proyek baru"
 
 #: kicad/prjconfig.cpp:239
 msgid "Open Existing Project"
@@ -394,11 +397,11 @@ msgstr ""
 #: kicad/prjconfig.cpp:335 pcbnew/pcbframe.cpp:969 pcbnew/moduleframe.cpp:764
 #: eeschema/libedit.cpp:61 eeschema/schframe.cpp:1312 cvpcb/cvframe.cpp:716
 msgid " [Read Only]"
-msgstr ""
+msgstr "[ Hanya bisa dibaca ]"
 
 #: kicad/prjconfig.cpp:363
 msgid "New Project Folder"
-msgstr ""
+msgstr "Folder Proyek Baru"
 
 #: kicad/files-io.cpp:46
 msgid "Zip file (*.zip)|*.zip"
@@ -406,11 +409,11 @@ msgstr ""
 
 #: kicad/files-io.cpp:52
 msgid "KiCad project file"
-msgstr ""
+msgstr "File proyek KiCad"
 
 #: kicad/files-io.cpp:78
 msgid "Unzip Project"
-msgstr ""
+msgstr "Buka arsip Proyek"
 
 #: kicad/files-io.cpp:85
 #, c-format
@@ -418,6 +421,8 @@ msgid ""
 "\n"
 "Open '%s'\n"
 msgstr ""
+"\n"
+"Buka '%s'\n"
 
 #: kicad/files-io.cpp:88
 msgid "Target Directory"
@@ -491,23 +496,23 @@ msgstr ""
 
 #: kicad/class_treeproject_item.cpp:140
 msgid "Delete File"
-msgstr ""
+msgstr "Hapus File"
 
 #: kicad/commandframe.cpp:67
 msgid "Eeschema - Electronic schematic editor"
-msgstr ""
+msgstr "EeSchema - Editor skema elektronik"
 
 #: kicad/commandframe.cpp:70
 msgid "Schematic library editor"
-msgstr ""
+msgstr "Editor library skema"
 
 #: kicad/commandframe.cpp:73
 msgid "Pcbnew - Printed circuit board editor"
-msgstr ""
+msgstr "Pcbnew - Editor printed circuit board"
 
 #: kicad/commandframe.cpp:76
 msgid "PCB footprint editor"
-msgstr ""
+msgstr "Eidtor PCB footprint"
 
 #: kicad/commandframe.cpp:79
 msgid "GerbView - Gerber viewer"
@@ -531,26 +536,28 @@ msgid ""
 "Current project directory:\n"
 "%s"
 msgstr ""
+"Direktori Proyek saat ini :\n"
+"%s"
 
 #: kicad/tree_project_frame.cpp:216
 msgid "Create New Directory"
-msgstr ""
+msgstr "Buat Direktori Baru"
 
 #: kicad/tree_project_frame.cpp:677 kicad/tree_project_frame.cpp:684
 msgid "New D&irectory"
-msgstr ""
+msgstr "D&irektori Baru"
 
 #: kicad/tree_project_frame.cpp:678 kicad/tree_project_frame.cpp:685
 msgid "Create a New Directory"
-msgstr ""
+msgstr "Buat direktori baru"
 
 #: kicad/tree_project_frame.cpp:688
 msgid "&Delete Directory"
-msgstr ""
+msgstr "&Hapus Direktori"
 
 #: kicad/tree_project_frame.cpp:689 kicad/tree_project_frame.cpp:704
 msgid "Delete the Directory and its content"
-msgstr ""
+msgstr "Hapus direktori beserta isinya"
 
 #: kicad/tree_project_frame.cpp:695
 msgid "&Edit in a text editor"
@@ -562,20 +569,20 @@ msgstr ""
 
 #: kicad/tree_project_frame.cpp:699
 msgid "&Rename file"
-msgstr ""
+msgstr "&Mengganti nama file"
 
 #: kicad/tree_project_frame.cpp:700
 msgid "Rename file"
-msgstr ""
+msgstr "Mengganti nama file"
 
 #: kicad/tree_project_frame.cpp:703
 msgid "&Delete File"
-msgstr ""
+msgstr "&Hapus File"
 
 #: kicad/tree_project_frame.cpp:753
 #, c-format
 msgid "Change filename: '%s'"
-msgstr ""
+msgstr "Ubah nama-file : '%s'"
 
 #: kicad/tree_project_frame.cpp:756
 msgid "Change filename"
@@ -1310,32 +1317,31 @@ msgid "Show footprint in 3D viewer"
 msgstr ""
 
 #: pcbnew/footprint_wizard_frame.cpp:593 pcbnew/tool_modview.cpp:79
-#: pcbnew/tool_modedit.cpp:123 common/zoom.cpp:248
-#: eeschema/tool_viewlib.cpp:75 3d-viewer/3d_toolbar.cpp:68
-#: gerbview/toolbars_gerber.cpp:77 pagelayout_editor/toolbars_pl_editor.cpp:78
-#: pcbnew/help_common_strings.h:19 eeschema/help_common_strings.h:43
+#: pcbnew/tool_modedit.cpp:123 common/zoom.cpp:248 eeschema/tool_viewlib.cpp:75
+#: 3d-viewer/3d_toolbar.cpp:68 gerbview/toolbars_gerber.cpp:77
+#: pagelayout_editor/toolbars_pl_editor.cpp:78 pcbnew/help_common_strings.h:19
+#: eeschema/help_common_strings.h:43
 msgid "Zoom in"
 msgstr ""
 
 #: pcbnew/footprint_wizard_frame.cpp:598 pcbnew/tool_modview.cpp:84
-#: pcbnew/tool_modedit.cpp:126 common/zoom.cpp:250
-#: eeschema/tool_viewlib.cpp:80 3d-viewer/3d_toolbar.cpp:71
-#: gerbview/toolbars_gerber.cpp:80 pagelayout_editor/toolbars_pl_editor.cpp:81
-#: pcbnew/help_common_strings.h:20 eeschema/help_common_strings.h:44
+#: pcbnew/tool_modedit.cpp:126 common/zoom.cpp:250 eeschema/tool_viewlib.cpp:80
+#: 3d-viewer/3d_toolbar.cpp:71 gerbview/toolbars_gerber.cpp:80
+#: pagelayout_editor/toolbars_pl_editor.cpp:81 pcbnew/help_common_strings.h:20
+#: eeschema/help_common_strings.h:44
 msgid "Zoom out"
 msgstr ""
 
 #: pcbnew/footprint_wizard_frame.cpp:603 pcbnew/tool_modview.cpp:89
-#: pcbnew/tool_modedit.cpp:129 common/zoom.cpp:252
-#: eeschema/tool_viewlib.cpp:85 3d-viewer/3d_toolbar.cpp:75
-#: gerbview/toolbars_gerber.cpp:83 pagelayout_editor/toolbars_pl_editor.cpp:84
+#: pcbnew/tool_modedit.cpp:129 common/zoom.cpp:252 eeschema/tool_viewlib.cpp:85
+#: 3d-viewer/3d_toolbar.cpp:75 gerbview/toolbars_gerber.cpp:83
+#: pagelayout_editor/toolbars_pl_editor.cpp:84
 msgid "Redraw view"
 msgstr ""
 
 #: pcbnew/footprint_wizard_frame.cpp:608 pcbnew/tool_modview.cpp:94
-#: pcbnew/tool_modedit.cpp:133 common/zoom.cpp:254
-#: eeschema/tool_viewlib.cpp:90 gerbview/toolbars_gerber.cpp:86
-#: pagelayout_editor/toolbars_pl_editor.cpp:87
+#: pcbnew/tool_modedit.cpp:133 common/zoom.cpp:254 eeschema/tool_viewlib.cpp:90
+#: gerbview/toolbars_gerber.cpp:86 pagelayout_editor/toolbars_pl_editor.cpp:87
 msgid "Zoom auto"
 msgstr ""
 
@@ -1367,11 +1373,11 @@ msgstr ""
 #: pcbnew/dialogs/dialog_non_copper_zones_properties_base.cpp:52
 #: eeschema/lib_pin.cpp:207 gerbview/class_gerber_draw_item.cpp:183
 msgid "Line"
-msgstr ""
+msgstr "Garis"
 
 #: pcbnew/class_board_item.cpp:43 pcbnew/class_pad.cpp:870
 msgid "Rect"
-msgstr ""
+msgstr "Segi empat"
 
 #: pcbnew/class_board_item.cpp:44 pcbnew/class_drawsegment.cpp:377
 #: eeschema/lib_arc.cpp:95 gerbview/class_gerber_draw_item.cpp:186
@@ -1630,15 +1636,14 @@ msgstr ""
 msgid "Pad inside a text"
 msgstr ""
 
-#: pcbnew/pcbnew_config.cpp:80 pcbnew/tool_pcb.cpp:808
-#: gerbview/menubar.cpp:155 gerbview/menubar.cpp:157 gerbview/options.cpp:89
+#: pcbnew/pcbnew_config.cpp:80 pcbnew/tool_pcb.cpp:808 gerbview/menubar.cpp:155
+#: gerbview/menubar.cpp:157 gerbview/options.cpp:89
 #: gerbview/events_called_functions.cpp:382
 msgid "Hide &Layers Manager"
 msgstr ""
 
-#: pcbnew/pcbnew_config.cpp:80 pcbnew/tool_pcb.cpp:808
-#: gerbview/menubar.cpp:157 gerbview/options.cpp:89
-#: gerbview/events_called_functions.cpp:382
+#: pcbnew/pcbnew_config.cpp:80 pcbnew/tool_pcb.cpp:808 gerbview/menubar.cpp:157
+#: gerbview/options.cpp:89 gerbview/events_called_functions.cpp:382
 msgid "Show &Layers Manager"
 msgstr ""
 
@@ -2260,16 +2265,16 @@ msgstr ""
 
 #: pcbnew/onrightclick.cpp:816
 msgid "Rotate +"
-msgstr ""
+msgstr "Putar Kanan"
 
 #: pcbnew/onrightclick.cpp:820
 msgid "Rotate -"
-msgstr ""
+msgstr "Putar Kiri"
 
 #: pcbnew/onrightclick.cpp:821 pcbnew/onrightclick.cpp:1009
 #: pcbnew/tools/common_actions.cpp:125
 msgid "Flip"
-msgstr ""
+msgstr "Balik"
 
 #: pcbnew/onrightclick.cpp:827
 msgid "Edit Parameters"
@@ -2281,19 +2286,19 @@ msgstr ""
 
 #: pcbnew/onrightclick.cpp:839
 msgid "Delete Footprint"
-msgstr ""
+msgstr "Hapus Footprint"
 
 #: pcbnew/onrightclick.cpp:846
 msgid "Move Footprint Exactly"
-msgstr ""
+msgstr "Pindah footprint ke koordinat pasti"
 
 #: pcbnew/onrightclick.cpp:851
 msgid "Duplicate Footprint"
-msgstr ""
+msgstr "Duplikasi Footprint"
 
 #: pcbnew/onrightclick.cpp:856
 msgid "Create Footprint Array"
-msgstr ""
+msgstr "Buat Footprint Array"
 
 #: pcbnew/onrightclick.cpp:862
 msgid "Exchange Footprint(s)"
@@ -2576,8 +2581,7 @@ msgid "Pads"
 msgstr ""
 
 #: pcbnew/class_netinfo_item.cpp:133 pcbnew/pcb_draw_panel_gal.cpp:350
-#: pcbnew/class_board.cpp:954
-#: pcbnew/dialogs/dialog_global_deletion_base.cpp:68
+#: pcbnew/class_board.cpp:954 pcbnew/dialogs/dialog_global_deletion_base.cpp:68
 #: pcbnew/dialogs/dialog_track_via_properties_base.cpp:123
 msgid "Vias"
 msgstr ""
@@ -3299,14 +3303,13 @@ msgstr ""
 msgid "Add text on copper layers or graphic text"
 msgstr ""
 
-#: pcbnew/tool_pcb.cpp:463 pcbnew/menubar_pcbframe.cpp:419
-#: pcbnew/edit.cpp:1496 pcbnew/tools/drawing_tool.cpp:252
+#: pcbnew/tool_pcb.cpp:463 pcbnew/menubar_pcbframe.cpp:419 pcbnew/edit.cpp:1496
+#: pcbnew/tools/drawing_tool.cpp:252
 msgid "Add dimension"
 msgstr ""
 
-#: pcbnew/tool_pcb.cpp:466 pcbnew/menubar_pcbframe.cpp:423
-#: pcbnew/edit.cpp:1464 pcbnew/tools/common_actions.cpp:384
-#: pcbnew/tools/pcb_editor_control.cpp:371
+#: pcbnew/tool_pcb.cpp:466 pcbnew/menubar_pcbframe.cpp:423 pcbnew/edit.cpp:1464
+#: pcbnew/tools/common_actions.cpp:384 pcbnew/tools/pcb_editor_control.cpp:371
 msgid "Add layer alignment target"
 msgstr ""
 
@@ -3947,8 +3950,7 @@ msgstr ""
 msgid "Segs Count"
 msgstr ""
 
-#: pcbnew/class_module.cpp:566
-#: eeschema/dialogs/dialog_choose_component.cpp:271
+#: pcbnew/class_module.cpp:566 eeschema/dialogs/dialog_choose_component.cpp:271
 msgid "Unknown"
 msgstr ""
 
@@ -3973,9 +3975,9 @@ msgstr ""
 #: eeschema/dialogs/dialog_lib_edit_text_base.cpp:97
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:56
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:182
-#: eeschema/dialogs/dialog_edit_label_base.cpp:76
-#: gerbview/class_GERBER.cpp:359 gerbview/class_GERBER.cpp:363
-#: gerbview/class_GERBER.cpp:366 bitmap2component/bitmap2cmp_gui_base.cpp:135
+#: eeschema/dialogs/dialog_edit_label_base.cpp:76 gerbview/class_GERBER.cpp:359
+#: gerbview/class_GERBER.cpp:363 gerbview/class_GERBER.cpp:366
+#: bitmap2component/bitmap2cmp_gui_base.cpp:135
 msgid "Normal"
 msgstr ""
 
@@ -6974,7 +6976,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_keepout_area_properties_base.cpp:47
 msgid "180, 90, and 45 degrees"
-msgstr ""
+msgstr "180, 90, dan 45 derajat"
 
 #: pcbnew/dialogs/dialog_keepout_area_properties_base.cpp:49
 msgid "Zone Edge Orientation:"
@@ -7112,7 +7114,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:57
 msgid "Board Thickness"
-msgstr ""
+msgstr "Tebal Board"
 
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:70
 #: pcbnew/dialogs/dialog_track_via_properties_base.cpp:35
@@ -7252,7 +7254,7 @@ msgstr ""
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:1160
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:1192
 msgid "signal"
-msgstr ""
+msgstr "sinyal"
 
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:290
 #: pcbnew/dialogs/dialog_layers_setup_base.cpp:319
@@ -8009,8 +8011,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_fp_plugin_options_base.cpp:72
 #: pcbnew/dialogs/dialog_fp_lib_table_base.cpp:151
-#: cvpcb/dialogs/dialog_config_equfiles_base.cpp:47
-#: 3d-viewer/3d_canvas.cpp:438
+#: cvpcb/dialogs/dialog_config_equfiles_base.cpp:47 3d-viewer/3d_canvas.cpp:438
 msgid "Move Down"
 msgstr ""
 
@@ -8060,8 +8061,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:106
 #: eeschema/sch_text.cpp:767 eeschema/lib_pin.cpp:1997
-#: eeschema/lib_field.cpp:746
-#: eeschema/dialogs/dialog_lib_edit_text_base.cpp:99
+#: eeschema/lib_field.cpp:746 eeschema/dialogs/dialog_lib_edit_text_base.cpp:99
 msgid "Style"
 msgstr ""
 
@@ -8082,8 +8082,8 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:116
 #: pcbnew/dialogs/dialog_modedit_options_base.cpp:129
-#: pcbnew/dialogs/dialog_modedit_options_base.cpp:158
-#: eeschema/lib_pin.cpp:2004 eeschema/dialogs/dialog_eeschema_options.cpp:55
+#: pcbnew/dialogs/dialog_modedit_options_base.cpp:158 eeschema/lib_pin.cpp:2004
+#: eeschema/dialogs/dialog_eeschema_options.cpp:55
 #: eeschema/dialogs/dialog_eeschema_options.cpp:192
 msgid "Visible"
 msgstr ""
@@ -8138,10 +8138,9 @@ msgstr ""
 #: common/dialogs/dialog_page_settings.cpp:466
 #: eeschema/dialogs/dialog_lib_edit_draw_item_base.cpp:45
 #: bitmap2component/bitmap2cmp_gui_base.cpp:78
-#: pcb_calculator/UnitSelector.cpp:38
-#: pagelayout_editor/pl_editor_frame.cpp:467
+#: pcb_calculator/UnitSelector.cpp:38 pagelayout_editor/pl_editor_frame.cpp:467
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 #: pcbnew/dialogs/dialog_move_exact_base.cpp:39
 #: pcbnew/dialogs/dialog_move_exact_base.cpp:53
@@ -8182,47 +8181,47 @@ msgstr ""
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 0.5"
-msgstr ""
+msgstr "Skala 0.5"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 0.7"
-msgstr ""
+msgstr "Skala 0.7"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Approx. Scale 1"
-msgstr ""
+msgstr "Skala mendekati 1"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Accurate Scale 1"
-msgstr ""
+msgstr "Skala akurat 1"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 1.4"
-msgstr ""
+msgstr "Skala 1,4"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 2"
-msgstr ""
+msgstr "Skala 2"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 3"
-msgstr ""
+msgstr "Skala 3"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:49
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:22
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:44
 msgid "Scale 4"
-msgstr ""
+msgstr "Skala 4"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:51
 #: pcbnew/dialogs/dialog_print_for_modedit_base.cpp:24
@@ -8255,7 +8254,7 @@ msgstr ""
 #: eeschema/dialogs/dialog_netlist.cpp:295
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:77
 msgid "Options:"
-msgstr ""
+msgstr "Opsi :"
 
 #: pcbnew/dialogs/dialog_print_using_printer_base.cpp:86
 #: pcbnew/dialogs/dialog_graphic_items_options_base.cpp:111
@@ -8449,14 +8448,13 @@ msgstr ""
 #: pcbnew/dialogs/dialog_layers_setup.cpp:342
 #: pcbnew/dialogs/dialog_footprint_wizard_list_base.cpp:34
 #: common/dialogs/dialog_env_var_config_base.cpp:35 eeschema/libedit.cpp:477
-#: eeschema/lib_pin.cpp:1977
-#: eeschema/dialogs/dialog_lib_edit_pin_table.cpp:151
+#: eeschema/lib_pin.cpp:1977 eeschema/dialogs/dialog_lib_edit_pin_table.cpp:151
 #: eeschema/dialogs/dialog_edit_component_in_schematic.cpp:183
 #: eeschema/dialogs/dialog_edit_libentry_fields_in_lib.cpp:181
 #: cvpcb/dialogs/dialog_config_equfiles_base.cpp:82
 #: pcb_calculator/dialogs/dialog_regulator_data_base.cpp:26
 msgid "Name"
-msgstr ""
+msgstr "Nma"
 
 #: pcbnew/dialogs/dialog_layers_setup.cpp:344
 msgid "Enabled"
@@ -8484,7 +8482,7 @@ msgstr ""
 #: pcbnew/dialogs/dialog_set_grid_base.cpp:25
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:31
 msgid "Millimeters"
-msgstr ""
+msgstr "milimeter"
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:44
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:33
@@ -8496,7 +8494,7 @@ msgstr ""
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:31
 #: pagelayout_editor/pl_editor_frame.cpp:117
 msgid "Inches"
-msgstr ""
+msgstr "inci"
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:46
 msgid "Drill Units:"
@@ -8504,7 +8502,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:50
 msgid "Decimal format"
-msgstr ""
+msgstr "Format Desimal"
 
 #: pcbnew/dialogs/dialog_gendrill_base.cpp:50
 msgid "Suppress leading zeros"
@@ -13193,8 +13191,7 @@ msgstr ""
 msgid " deg"
 msgstr ""
 
-#: common/eda_doc.cpp:144
-#: eeschema/dialogs/dialog_edit_component_in_lib.cpp:456
+#: common/eda_doc.cpp:144 eeschema/dialogs/dialog_edit_component_in_lib.cpp:456
 msgid "Doc Files"
 msgstr ""
 
@@ -16083,8 +16080,7 @@ msgstr ""
 msgid "Pin"
 msgstr ""
 
-#: eeschema/lib_pin.cpp:1984
-#: eeschema/dialogs/dialog_lib_edit_pin_table.cpp:144
+#: eeschema/lib_pin.cpp:1984 eeschema/dialogs/dialog_lib_edit_pin_table.cpp:144
 msgid "Number"
 msgstr ""
 
