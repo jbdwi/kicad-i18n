@@ -693,7 +693,7 @@ msgstr ""
 #: pcb_calculator/dialogs/dialog_regulator_data_base.cpp:47
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:29
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 #: pcbnew/class_text_mod.cpp:378 pcbnew/class_pcb_text.cpp:143
 #: eeschema/lib_pin.cpp:2002
@@ -701,7 +701,7 @@ msgstr ""
 #: gerbview/class_gerber_draw_item.cpp:572
 #: gerbview/class_gerber_draw_item.cpp:573
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 #: pcbnew/class_text_mod.cpp:380 pcbnew/class_pcb_text.cpp:145
 #: eeschema/lib_pin.cpp:2000
@@ -710,13 +710,13 @@ msgstr ""
 #: gerbview/class_gerber_draw_item.cpp:572
 #: gerbview/class_gerber_draw_item.cpp:573
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: pcbnew/class_text_mod.cpp:382
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:118
 #: pcbnew/dialogs/dialog_dimension_editor_base.cpp:85
 msgid "Display"
-msgstr ""
+msgstr "Tayangan"
 
 #: pcbnew/class_text_mod.cpp:385 pcbnew/class_pcb_layer_widget.cpp:237
 #: pcbnew/class_zone.cpp:630 pcbnew/layer_widget.cpp:540
@@ -730,15 +730,15 @@ msgstr ""
 #: gerbview/dialogs/dialog_print_using_printer.cpp:163
 #: gerbview/dialogs/dialog_select_one_pcb_layer.cpp:163
 msgid "Layer"
-msgstr ""
+msgstr "Lapisan"
 
 #: pcbnew/class_text_mod.cpp:388
 msgid " Yes"
-msgstr ""
+msgstr "Ya"
 
 #: pcbnew/class_text_mod.cpp:390
 msgid " No"
-msgstr ""
+msgstr "Tidak"
 
 #: pcbnew/class_text_mod.cpp:392 pcbnew/modedit_onclick.cpp:292
 #: pcbnew/class_pcb_text.cpp:143 pcbnew/class_pcb_text.cpp:145
@@ -748,21 +748,21 @@ msgstr ""
 #: gerbview/class_gerber_draw_item.cpp:574
 #: gerbview/dialogs/dialog_print_using_printer_base.cpp:79
 msgid "Mirror"
-msgstr ""
+msgstr "Cerminan"
 
 #: pcbnew/class_text_mod.cpp:395 pcbnew/class_drawsegment.cpp:379
 #: pcbnew/class_drawsegment.cpp:397 pcbnew/class_module.cpp:598
 #: pcbnew/class_pcb_text.cpp:148 pcbnew/class_pad.cpp:682
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:938
 msgid "Angle"
-msgstr ""
+msgstr "Sudut"
 
 #: pcbnew/class_text_mod.cpp:398 pcbnew/class_pcb_text.cpp:151
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:64
 #: pcbnew/dialogs/dialog_target_properties_base.cpp:39
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:325
 msgid "Thickness"
-msgstr ""
+msgstr "Ketebalan"
 
 #: pcbnew/class_text_mod.cpp:401 pcbnew/class_track.cpp:1157
 #: pcbnew/class_track.cpp:1184 pcbnew/class_drawsegment.cpp:410
@@ -770,33 +770,33 @@ msgstr ""
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:48
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:322 eeschema/lib_field.cpp:749
 msgid "Width"
-msgstr ""
+msgstr "Lebar"
 
 #: pcbnew/class_text_mod.cpp:404 pcbnew/class_pcb_text.cpp:157
 #: pcbnew/class_pad.cpp:656 pcbnew/dialogs/dialog_edit_module_text_base.cpp:56
 #: eeschema/lib_field.cpp:752
 msgid "Height"
-msgstr ""
+msgstr "Tinggi"
 
 #: pcbnew/class_text_mod.cpp:416
 #, c-format
 msgid "Reference %s"
-msgstr ""
+msgstr "Referensi %s"
 
 #: pcbnew/class_text_mod.cpp:420
 #, c-format
 msgid "Value %s of %s"
-msgstr ""
+msgstr "Nilai %s dari %s"
 
 #: pcbnew/class_text_mod.cpp:424
 #, c-format
 msgid "Text \"%s\" on %s of %s"
-msgstr ""
+msgstr "Teks \"%s\" on %s dari %s"
 
 #: pcbnew/pcbframe.cpp:400 pcbnew/pcbframe.cpp:899 pcbnew/moduleframe.cpp:289
 #: gerbview/gerbview_frame.cpp:143 gerbview/events_called_functions.cpp:319
 msgid "Visibles"
-msgstr ""
+msgstr "Tampak"
 
 #: pcbnew/pcbframe.cpp:582 eeschema/schframe.cpp:619
 #, c-format
@@ -805,11 +805,14 @@ msgid ""
 "'%s'\n"
 "before closing?"
 msgstr ""
+"Simpan perubahan di\n"
+"'%s'\n"
+"sebelum menutup ?"
 
 #: pcbnew/pcbframe.cpp:618
 #, c-format
 msgid "The auto save file '%s' could not be removed!"
-msgstr ""
+msgstr "File  autosave  '%s' tidak dapat dihapus !!"
 
 #: pcbnew/pcbframe.cpp:655 pcbnew/hotkeys.cpp:187 pcbnew/moduleframe.cpp:691
 #: cvpcb/class_DisplayFootprintsFrame.cpp:401
@@ -818,7 +821,7 @@ msgstr ""
 
 #: pcbnew/pcbframe.cpp:973
 msgid " [new file]"
-msgstr ""
+msgstr "[ file baru ]"
 
 #: pcbnew/modedit_onclick.cpp:229 pcbnew/modedit_onclick.cpp:272
 #: pcbnew/onrightclick.cpp:81 pcbnew/onrightclick.cpp:97 pcbnew/muonde.cpp:803
@@ -833,7 +836,7 @@ msgstr ""
 #: gerbview/dialogs/dialog_select_one_pcb_layer.cpp:182
 #: pagelayout_editor/onrightclick.cpp:115
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: pcbnew/modedit_onclick.cpp:232 pcbnew/onrightclick.cpp:87
 #: eeschema/libedit_onrightclick.cpp:88 eeschema/onrightclick.cpp:158
@@ -845,7 +848,7 @@ msgstr ""
 #: eeschema/libedit_onrightclick.cpp:323 eeschema/onrightclick.cpp:827
 #: gerbview/onrightclick.cpp:73
 msgid "Cancel Block"
-msgstr ""
+msgstr "Batalkan Blok"
 
 #: pcbnew/modedit_onclick.cpp:246 eeschema/libedit_onrightclick.cpp:328
 msgid "Zoom Block (drag middle mouse)"
@@ -855,7 +858,7 @@ msgstr ""
 #: eeschema/libedit_onrightclick.cpp:333 eeschema/onrightclick.cpp:835
 #: gerbview/onrightclick.cpp:76
 msgid "Place Block"
-msgstr ""
+msgstr "Tempatkan Blok"
 
 #: pcbnew/modedit_onclick.cpp:252
 msgid "Copy Block (shift + drag mouse)"
@@ -883,11 +886,11 @@ msgstr ""
 #: eeschema/dialogs/dialog_edit_libentry_fields_in_lib_base.cpp:84
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:174
 msgid "Rotate"
-msgstr ""
+msgstr "Putar"
 
 #: pcbnew/modedit_onclick.cpp:294
 msgid "Move Exactly"
-msgstr ""
+msgstr "Geser secara tepat"
 
 #: pcbnew/modedit_onclick.cpp:297
 msgid "Edit Footprint"
@@ -899,7 +902,7 @@ msgstr ""
 
 #: pcbnew/modedit_onclick.cpp:308 pcbnew/onrightclick.cpp:943
 msgid "Move Pad"
-msgstr ""
+msgstr "Geser Pad"
 
 #: pcbnew/modedit_onclick.cpp:312 pcbnew/onrightclick.cpp:948
 msgid "Edit Pad"
@@ -915,11 +918,11 @@ msgstr ""
 
 #: pcbnew/modedit_onclick.cpp:318
 msgid "Delete Pad"
-msgstr ""
+msgstr "Hapus Pad"
 
 #: pcbnew/modedit_onclick.cpp:321
 msgid "Duplicate Pad"
-msgstr ""
+msgstr "Duplikasi Pad"
 
 #: pcbnew/modedit_onclick.cpp:324
 msgid "Move Pad Exactly"
