@@ -207,15 +207,15 @@ msgstr ""
 
 #: kicad/menubar.cpp:331
 msgid "&Favourite PDF Viewer"
-msgstr ""
+msgstr "PDF Viewer Favorit"
 
 #: kicad/menubar.cpp:332
 msgid "Use favourite PDF viewer"
-msgstr ""
+msgstr "Pakai PDF VIewer Favorit"
 
 #: kicad/menubar.cpp:342
 msgid "Set &PDF Viewer"
-msgstr ""
+msgstr "Pilihan &PDF Viewer  "
 
 #: kicad/menubar.cpp:343
 msgid "Set favourite PDF viewer"
@@ -223,11 +223,11 @@ msgstr ""
 
 #: kicad/menubar.cpp:348
 msgid "&PDF Viewer"
-msgstr ""
+msgstr "&PDF Viewer"
 
 #: kicad/menubar.cpp:349
 msgid "PDF viewer preferences"
-msgstr ""
+msgstr "Preferensi PDF Viewer"
 
 #: kicad/menubar.cpp:366
 msgid "Run Library Editor"
@@ -359,7 +359,7 @@ msgstr ""
 #: kicad/prjconfig.cpp:143 pcbnew/router/length_tuner_tool.cpp:171
 #: common/confirm.cpp:80
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: kicad/prjconfig.cpp:154
 msgid "Problem whilst creating new project from template!"
@@ -444,11 +444,11 @@ msgstr ""
 
 #: kicad/files-io.cpp:128
 msgid " OK\n"
-msgstr ""
+msgstr "OK\n"
 
 #: kicad/files-io.cpp:131
 msgid " *ERROR*\n"
-msgstr ""
+msgstr " *ERROR*\n"
 
 #: kicad/files-io.cpp:159
 msgid "Archive Project Files"
@@ -644,7 +644,7 @@ msgstr ""
 
 #: kicad/dialogs/dialog_template_selector_base.cpp:39
 msgid "Validate"
-msgstr ""
+msgstr "Validasi"
 
 #: kicad/dialogs/dialog_template_selector_base.cpp:114
 msgid "Project Template Title"
@@ -652,7 +652,7 @@ msgstr ""
 
 #: pcbnew/class_text_mod.cpp:365
 msgid "Ref."
-msgstr ""
+msgstr "Ref."
 
 #: pcbnew/class_text_mod.cpp:365 pcbnew/footprint_wizard_frame.cpp:269
 #: pcbnew/class_edge_mod.cpp:261
@@ -668,7 +668,7 @@ msgstr ""
 #: eeschema/dialogs/dialog_edit_libentry_fields_in_lib.cpp:184
 #: cvpcb/dialogs/dialog_config_equfiles_base.cpp:83
 msgid "Value"
-msgstr ""
+msgstr "Nilai"
 
 #: pcbnew/class_text_mod.cpp:365 pcbnew/class_text_mod.cpp:372
 #: pcbnew/dialogs/dialog_global_deletion_base.cpp:28
@@ -677,7 +677,7 @@ msgstr ""
 #: pagelayout_editor/dialogs/dialog_new_dataitem_base.cpp:113
 #: pagelayout_editor/dialogs/properties_frame_base.cpp:67
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 #: pcbnew/class_text_mod.cpp:369 pcbnew/class_module.cpp:621
 #: pcbnew/loadcmp.cpp:436 pcbnew/class_pad.cpp:631
@@ -685,7 +685,7 @@ msgstr ""
 #: eeschema/onrightclick.cpp:433 eeschema/sch_component.cpp:1536
 #: eeschema/lib_field.cpp:588
 msgid "Footprint"
-msgstr ""
+msgstr "Footprint"
 
 #: pcbnew/class_text_mod.cpp:375 pcbnew/class_marker_pcb.cpp:97
 #: pcbnew/class_zone.cpp:584 pcbnew/class_track.cpp:1142
@@ -823,7 +823,7 @@ msgstr "File  autosave  '%s' tidak dapat dihapus !!"
 #: pcbnew/pcbframe.cpp:655 pcbnew/hotkeys.cpp:187 pcbnew/moduleframe.cpp:691
 #: cvpcb/class_DisplayFootprintsFrame.cpp:401
 msgid "3D Viewer"
-msgstr ""
+msgstr "3D Viewer"
 
 #: pcbnew/pcbframe.cpp:973
 msgid " [new file]"
@@ -848,7 +848,7 @@ msgstr "Batal"
 #: eeschema/libedit_onrightclick.cpp:88 eeschema/onrightclick.cpp:158
 #: gerbview/onrightclick.cpp:62
 msgid "End Tool"
-msgstr ""
+msgstr "Akhiri penggunaan Tool"
 
 #: pcbnew/modedit_onclick.cpp:244 pcbnew/onrightclick.cpp:495
 #: eeschema/libedit_onrightclick.cpp:323 eeschema/onrightclick.cpp:827
@@ -1294,14 +1294,14 @@ msgstr ""
 
 #: pcbnew/footprint_wizard_frame.cpp:268
 msgid "Parameter"
-msgstr ""
+msgstr "Parameter"
 
 #: pcbnew/footprint_wizard_frame.cpp:270
 #: pcbnew/dialogs/dialog_general_options_BoardEditor_base.cpp:35
 #: pcbnew/dialogs/dialog_set_grid_base.cpp:27 common/draw_frame.cpp:489
 #: gerbview/dialogs/gerbview_dialog_display_options_frame_base.cpp:33
 msgid "Units"
-msgstr ""
+msgstr "Unit"
 
 #: pcbnew/footprint_wizard_frame.cpp:550 pcbnew/modview_frame.cpp:645
 #, c-format
@@ -1365,7 +1365,7 @@ msgstr ""
 #: pcbnew/modules.cpp:66 pcbnew/dialogs/dialog_edit_module_text_base.cpp:40
 #: pcbnew/dialogs/dialog_edit_module_text.cpp:130
 msgid "Reference:"
-msgstr ""
+msgstr "Referensi : "
 
 #: pcbnew/modules.cpp:66
 msgid "Search for footprint"
@@ -1391,22 +1391,22 @@ msgstr "Segi empat"
 #: pcbnew/class_board_item.cpp:44 pcbnew/class_drawsegment.cpp:377
 #: eeschema/lib_arc.cpp:95 gerbview/class_gerber_draw_item.cpp:186
 msgid "Arc"
-msgstr ""
+msgstr "Busur"
 
 #: pcbnew/class_board_item.cpp:45 pcbnew/class_drawsegment.cpp:373
 #: pcbnew/class_pad.cpp:864 eeschema/lib_circle.cpp:53
 #: gerbview/class_gerber_draw_item.cpp:189
 msgid "Circle"
-msgstr ""
+msgstr "Lingkaran"
 
 #: pcbnew/class_board_item.cpp:46
 msgid "Bezier Curve"
-msgstr ""
+msgstr "Kurva Bezier"
 
 #: pcbnew/class_board_item.cpp:47
 #: pcbnew/dialogs/dialog_copper_zones_base.cpp:205
 msgid "Polygon"
-msgstr ""
+msgstr "Poligon"
 
 #: pcbnew/eagle_plugin.cpp:1673
 #, c-format
@@ -1535,27 +1535,27 @@ msgstr ""
 
 #: pcbnew/class_drc_item.cpp:51
 msgid "Via near via"
-msgstr ""
+msgstr "Via dekat via"
 
 #: pcbnew/class_drc_item.cpp:53
 msgid "Via near track"
-msgstr ""
+msgstr "Via dekat Trek"
 
 #: pcbnew/class_drc_item.cpp:63
 msgid "Two track ends too close"
-msgstr ""
+msgstr "Dua ujung Trek terlalu dekat"
 
 #: pcbnew/class_drc_item.cpp:65
 msgid "Two parallel track segments too close"
-msgstr ""
+msgstr "Dua segmen Trek paralel terlalu dekat"
 
 #: pcbnew/class_drc_item.cpp:67
 msgid "Tracks crossing"
-msgstr ""
+msgstr "Trek bersilangan"
 
 #: pcbnew/class_drc_item.cpp:69
 msgid "Pad near pad"
-msgstr ""
+msgstr "Pad dekat Pad"
 
 #: pcbnew/class_drc_item.cpp:71
 msgid "Via hole > diameter"
@@ -1579,19 +1579,19 @@ msgstr ""
 
 #: pcbnew/class_drc_item.cpp:83
 msgid "Hole near pad"
-msgstr ""
+msgstr "Hole dekat trek"
 
 #: pcbnew/class_drc_item.cpp:85
 msgid "Hole near track"
-msgstr ""
+msgstr "Hole dekat trek"
 
 #: pcbnew/class_drc_item.cpp:87
 msgid "Too small track width"
-msgstr ""
+msgstr "Lebar Trek terlampau kecil"
 
 #: pcbnew/class_drc_item.cpp:89
 msgid "Too small via size"
-msgstr ""
+msgstr "Ukuran Via terlampau kecil"
 
 #: pcbnew/class_drc_item.cpp:91
 msgid "Too small micro via size"
@@ -1623,27 +1623,27 @@ msgstr ""
 
 #: pcbnew/class_drc_item.cpp:108
 msgid "Via inside a keepout area"
-msgstr ""
+msgstr "Via ditengah-tengah Keepout_Area"
 
 #: pcbnew/class_drc_item.cpp:111
 msgid "Track inside a keepout area"
-msgstr ""
+msgstr "Trek ditengah-tengah Keepout_Area"
 
 #: pcbnew/class_drc_item.cpp:114
 msgid "Pad inside a keepout area"
-msgstr ""
+msgstr "Pad ditengah-tengah Keepout_Area"
 
 #: pcbnew/class_drc_item.cpp:117
 msgid "Via inside a text"
-msgstr ""
+msgstr "Via ditengah-tengah Teks"
 
 #: pcbnew/class_drc_item.cpp:120
 msgid "Track inside a text"
-msgstr ""
+msgstr "Trek ditengah-tengah Teks"
 
 #: pcbnew/class_drc_item.cpp:123
 msgid "Pad inside a text"
-msgstr ""
+msgstr "Pad ditengah-tengah Teks"
 
 #: pcbnew/pcbnew_config.cpp:80 pcbnew/tool_pcb.cpp:808 gerbview/menubar.cpp:155
 #: gerbview/menubar.cpp:157 gerbview/options.cpp:89
@@ -1677,7 +1677,7 @@ msgstr ""
 #: pcbnew/moduleframe.cpp:864 pcbnew/moduleframe.cpp:884 cvpcb/cvframe.cpp:457
 #: cvpcb/cvframe.cpp:477
 msgid "File Save Error"
-msgstr ""
+msgstr "Penyimpanan File gagal"
 
 #: pcbnew/pcbnew_config.cpp:160 pcbnew/moduleframe.cpp:880
 #, c-format
@@ -1699,11 +1699,11 @@ msgstr ""
 
 #: pcbnew/pcbnew_config.cpp:300 eeschema/eeschema_config.cpp:493
 msgid "Save Project File"
-msgstr ""
+msgstr "Simpan proyek ini"
 
 #: pcbnew/pcbnew_config.cpp:446
 msgid "Save Macros File"
-msgstr ""
+msgstr "Simpan File Makro"
 
 #: pcbnew/pcbnew_config.cpp:494
 msgid "Read Macros File"
@@ -1711,7 +1711,7 @@ msgstr ""
 
 #: pcbnew/files.cpp:123
 msgid "Open Board File"
-msgstr ""
+msgstr "Buka Board File"
 
 #: pcbnew/files.cpp:161
 msgid "Save Board File As"
@@ -1727,7 +1727,7 @@ msgstr ""
 
 #: pcbnew/files.cpp:205
 msgid "Printed circuit board"
-msgstr ""
+msgstr "Printed  Circuit Board"
 
 #: pcbnew/files.cpp:276
 #, c-format
@@ -1741,7 +1741,7 @@ msgstr ""
 
 #: pcbnew/files.cpp:342
 msgid "noname"
-msgstr ""
+msgstr "tanpa nama"
 
 #: pcbnew/files.cpp:410
 #, c-format
@@ -1754,11 +1754,11 @@ msgstr ""
 
 #: pcbnew/files.cpp:422 eeschema/files-io.cpp:215
 msgid "Save and Load"
-msgstr ""
+msgstr "Simpan dan Muat"
 
 #: pcbnew/files.cpp:423 eeschema/files-io.cpp:216
 msgid "Load Without Saving"
-msgstr ""
+msgstr "Muat tanpa menyimpan"
 
 #: pcbnew/files.cpp:446
 #, c-format
@@ -1934,7 +1934,7 @@ msgstr ""
 
 #: pcbnew/onrightclick.cpp:320
 msgid "Delete Target"
-msgstr ""
+msgstr "Hapus File"
 
 #: pcbnew/onrightclick.cpp:354 pcbnew/hotkeys.cpp:125
 msgid "Get and Move Footprint"
@@ -1952,17 +1952,17 @@ msgstr ""
 #: pcbnew/onrightclick.cpp:403 pcbnew/onrightclick.cpp:416
 #: pcbnew/onrightclick.cpp:481 pcbnew/onrightclick.cpp:574
 msgid "Select Working Layer"
-msgstr ""
+msgstr "Pilih Layer Kerja"
 
 #: pcbnew/onrightclick.cpp:393 pcbnew/onrightclick.cpp:473
 #: pcbnew/onrightclick.cpp:521
 msgid "Begin Track"
-msgstr ""
+msgstr "Mulai tarik Trek"
 
 #: pcbnew/onrightclick.cpp:399 pcbnew/onrightclick.cpp:477
 #: pcbnew/onrightclick.cpp:645
 msgid "Select Track Width"
-msgstr ""
+msgstr "Pilih Lebar Garis"
 
 #: pcbnew/onrightclick.cpp:405
 msgid "Select Layer Pair for Vias"
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #: pcbnew/onrightclick.cpp:424
 msgid "Footprint Documentation"
-msgstr ""
+msgstr "Dokumentasi Footprint"
 
 #: pcbnew/onrightclick.cpp:434
 msgid "Global Spread and Place"
@@ -1982,7 +1982,7 @@ msgstr ""
 
 #: pcbnew/onrightclick.cpp:438
 msgid "Lock All Footprints"
-msgstr ""
+msgstr "Kunci semua Footprint"
 
 #: pcbnew/onrightclick.cpp:441
 msgid "Spread out All Footprints"
@@ -5991,7 +5991,7 @@ msgstr ""
 
 #: pcbnew/tools/common_actions.cpp:66
 msgid "whole net"
-msgstr ""
+msgstr "Keseluruhan Net"
 
 #: pcbnew/tools/common_actions.cpp:66
 msgid "Selects all tracks & vias belonging to the same net."
@@ -8095,7 +8095,7 @@ msgstr ""
 #: eeschema/dialogs/dialog_eeschema_options.cpp:55
 #: eeschema/dialogs/dialog_eeschema_options.cpp:192
 msgid "Visible"
-msgstr ""
+msgstr "Terlihat"
 
 #: pcbnew/dialogs/dialog_edit_module_text_base.cpp:116
 #: pcbnew/dialogs/dialog_modedit_options_base.cpp:129
@@ -8160,7 +8160,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_move_exact_base.cpp:42
 msgid "y:"
-msgstr ""
+msgstr "y:"
 
 #: pcbnew/dialogs/dialog_move_exact_base.cpp:56
 msgid "Item rotation:"
@@ -9652,7 +9652,7 @@ msgstr ""
 #: eeschema/dialogs/dialog_edit_libentry_fields_in_lib_base.cpp:77
 #: eeschema/dialogs/dialog_edit_component_in_schematic_fbp.cpp:167
 msgid "Visibility"
-msgstr ""
+msgstr "Keterlihatan"
 
 #: pcbnew/dialogs/dialog_modedit_options_base.cpp:135
 msgid "V&alue"
@@ -10553,7 +10553,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_plot_base.cpp:337
 msgid "Width correction"
-msgstr ""
+msgstr "Koreksi lebar"
 
 #: pcbnew/dialogs/dialog_plot_base.cpp:343
 msgid ""
@@ -10607,7 +10607,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:50
 msgid "Via Dia"
-msgstr ""
+msgstr "Diameter Via"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:51
 msgid "Via Drill"
@@ -10776,51 +10776,51 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:279
 msgid "Via 1"
-msgstr ""
+msgstr "Via 1"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:280
 msgid "Via 2"
-msgstr ""
+msgstr "Via 2"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:281
 msgid "Via 3"
-msgstr ""
+msgstr "Via 3"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:282
 msgid "Via 4"
-msgstr ""
+msgstr "Via 4"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:283
 msgid "Via 5"
-msgstr ""
+msgstr "Via 5"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:284
 msgid "Via 6"
-msgstr ""
+msgstr "Via 6"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:285
 msgid "Via 7"
-msgstr ""
+msgstr "Via 7"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:286
 msgid "Via 8"
-msgstr ""
+msgstr "Via 8"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:287
 msgid "Via 9"
-msgstr ""
+msgstr "Via 9"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:288
 msgid "Via 10"
-msgstr ""
+msgstr "Via 10"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:289
 msgid "Via 11"
-msgstr ""
+msgstr "Via 11"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:290
 msgid "Via 12"
-msgstr ""
+msgstr "Via 12"
 
 #: pcbnew/dialogs/dialog_design_rules_base.cpp:303
 msgid "Custom Track Widths:"
@@ -11067,7 +11067,7 @@ msgstr ""
 #: pcbnew/dialogs/dialog_edit_module_for_BoardEditor_base.cpp:90
 #: common/wxwineda.cpp:170
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: pcbnew/dialogs/dialog_edit_module_for_BoardEditor_base.cpp:60
 msgid "Top side"
@@ -11697,7 +11697,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_set_grid_base.cpp:83
 msgid "Y:"
-msgstr ""
+msgstr "Y:"
 
 #: pcbnew/dialogs/dialog_set_grid_base.cpp:105
 msgid "Fast Switching"
@@ -11985,7 +11985,7 @@ msgstr ""
 
 #: pcbnew/dialogs/dialog_track_via_size_base.cpp:36
 msgid "Via diameter:"
-msgstr ""
+msgstr "Diameter Via :"
 
 #: pcbnew/dialogs/dialog_track_via_size_base.cpp:47
 msgid "Via drill:"
@@ -14065,19 +14065,19 @@ msgstr ""
 
 #: eeschema/libedit_onrightclick.cpp:230
 msgid "Delete Line "
-msgstr ""
+msgstr "Hapus garis"
 
 #: eeschema/libedit_onrightclick.cpp:250 eeschema/onrightclick.cpp:306
 msgid "Move Field"
-msgstr ""
+msgstr "Geser Field"
 
 #: eeschema/libedit_onrightclick.cpp:256
 msgid "Field Rotate"
-msgstr ""
+msgstr "Putar Field"
 
 #: eeschema/libedit_onrightclick.cpp:258
 msgid "Field Edit"
-msgstr ""
+msgstr "Edit Field"
 
 #: eeschema/libedit_onrightclick.cpp:283
 msgid "Move Pin "
@@ -14085,19 +14085,19 @@ msgstr ""
 
 #: eeschema/libedit_onrightclick.cpp:288
 msgid "Edit Pin "
-msgstr ""
+msgstr "Edit Pin"
 
 #: eeschema/libedit_onrightclick.cpp:291
 msgid "Rotate Pin "
-msgstr ""
+msgstr "Putar Pin"
 
 #: eeschema/libedit_onrightclick.cpp:296
 msgid "Delete Pin "
-msgstr ""
+msgstr "Hapus Pin"
 
 #: eeschema/libedit_onrightclick.cpp:303
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 #: eeschema/libedit_onrightclick.cpp:306
 msgid "Pin Size to selected pins"
@@ -14125,7 +14125,7 @@ msgstr ""
 
 #: eeschema/libedit_onrightclick.cpp:337
 msgid "Select Items"
-msgstr ""
+msgstr "Pilih Obyek"
 
 #: eeschema/libedit_onrightclick.cpp:340 eeschema/onrightclick.cpp:849
 msgid "Mirror Block ||"
@@ -14186,27 +14186,27 @@ msgstr ""
 
 #: eeschema/schedit.cpp:527
 msgid "Add no connect"
-msgstr ""
+msgstr "Pasang No_Connect"
 
 #: eeschema/schedit.cpp:531
 msgid "Add wire"
-msgstr ""
+msgstr "Tarik kawat"
 
 #: eeschema/schedit.cpp:535
 msgid "Add bus"
-msgstr ""
+msgstr "Tarik Bus"
 
 #: eeschema/schedit.cpp:539
 msgid "Add lines"
-msgstr ""
+msgstr "Tarik Garis"
 
 #: eeschema/schedit.cpp:543
 msgid "Add junction"
-msgstr ""
+msgstr "Pasang Sambungan"
 
 #: eeschema/schedit.cpp:547
 msgid "Add label"
-msgstr ""
+msgstr "Pasang Label"
 
 #: eeschema/schedit.cpp:551
 msgid "Add global label"
@@ -14661,7 +14661,7 @@ msgstr ""
 
 #: eeschema/onrightclick.cpp:673
 msgid "Wire End"
-msgstr ""
+msgstr "Ujung Akhir Kawat"
 
 #: eeschema/onrightclick.cpp:678
 msgid "Drag Wire"
@@ -14932,7 +14932,7 @@ msgstr ""
 
 #: eeschema/menubar.cpp:276
 msgid "&Wire"
-msgstr ""
+msgstr "&Kawat"
 
 #: eeschema/menubar.cpp:282
 msgid "&Bus"
@@ -15695,7 +15695,7 @@ msgstr ""
 
 #: eeschema/lib_draw_item.cpp:79
 msgid "yes"
-msgstr ""
+msgstr "Ya"
 
 #: eeschema/sch_line.cpp:476
 #, c-format
@@ -18373,7 +18373,7 @@ msgstr ""
 
 #: eeschema/dialogs/dialog_color_config.cpp:61
 msgid "Wire"
-msgstr ""
+msgstr "Kawat"
 
 #: eeschema/dialogs/dialog_color_config.cpp:62
 msgid "Bus"
@@ -18446,7 +18446,7 @@ msgstr ""
 
 #: eeschema/dialogs/dialog_color_config.cpp:191
 msgid "White"
-msgstr ""
+msgstr "Putih"
 
 #: eeschema/dialogs/dialog_color_config.cpp:192
 msgid "Black"
@@ -20484,7 +20484,7 @@ msgstr ""
 
 #: pcb_calculator/transline_ident.cpp:283
 msgid "Width of Waveguide"
-msgstr ""
+msgstr "Leard dari Wave_Guide"
 
 #: pcb_calculator/transline_ident.cpp:285
 msgid "b"
@@ -20628,7 +20628,7 @@ msgstr ""
 
 #: pcb_calculator/tracks_width_versus_current.cpp:463
 msgid "width and thickness in mils"
-msgstr ""
+msgstr "Lebar dan Ketebalan dalam mils"
 
 #: pcb_calculator/tracks_width_versus_current.cpp:465
 msgid "0.024 for internal traces or 0.048 for external traces"
@@ -20942,13 +20942,13 @@ msgstr ""
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:393
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:482
 msgid "Voltage drop"
-msgstr ""
+msgstr "Penurunan Voltage"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:401
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:490
 #: pcb_calculator/dialogs/dialog_regulator_data_base.cpp:43
 msgid "Volt"
-msgstr ""
+msgstr "Volt"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:405
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:494
@@ -20966,7 +20966,7 @@ msgstr ""
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:535
 msgid "Voltage > 500V:"
-msgstr ""
+msgstr "Voltage > 500"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.cpp:543
 msgid "Update Values"
@@ -22149,7 +22149,7 @@ msgstr "Daftar Komponen"
 
 #: eeschema/dialogs/dialog_libedit_options_base.h:80
 msgid "Library Editor Options"
-msgstr ""
+msgstr "Opsi Editor Librari"
 
 #: eeschema/dialogs/dialog_erc_base.h:83
 msgid "Electrical Rules Checker"
@@ -22218,7 +22218,7 @@ msgstr "Batas Halaman"
 
 #: bitmap2component/bitmap2cmp_gui_base.h:92
 msgid "Bitmap to Component Converter"
-msgstr ""
+msgstr "Konverter Bitmap ke Komponen"
 
 #: pcb_calculator/dialogs/pcb_calculator_frame_base.h:304
 msgid "PCB Calculator"
