@@ -13435,23 +13435,23 @@ msgstr ""
 
 #: common/dialog_about/AboutDialog_main.cpp:152
 msgid "The new KiCad site"
-msgstr ""
+msgstr "Lokasi KiCad Terbaru"
 
 #: common/dialog_about/AboutDialog_main.cpp:155
 msgid "Repository with additional component libraries"
-msgstr ""
+msgstr "Repositori dengan librari komponen tambahan"
 
 #: common/dialog_about/AboutDialog_main.cpp:161
 msgid "Contribute to KiCad"
-msgstr ""
+msgstr "Kontribusi ke KiCad"
 
 #: common/dialog_about/AboutDialog_main.cpp:167
 msgid "Report bugs if you found any"
-msgstr ""
+msgstr "Laporkan bila menjumpai bug"
 
 #: common/dialog_about/AboutDialog_main.cpp:169
 msgid "File an idea for improvement"
-msgstr ""
+msgstr "Bukukan / usulkan bila ada ide utk perbaikan"
 
 #: common/dialog_about/AboutDialog_main.cpp:172
 msgid "KiCad links to user groups, tutorials and much more"
@@ -13495,22 +13495,23 @@ msgstr ""
 msgid "Select a row and press a new key combination to alter the binding."
 msgstr ""
 
+#: EESCHEMA =================================================================================
 #: common/dialogs/wx_html_report_panel_base.cpp:38 eeschema/lib_draw_item.cpp:68
 #: eeschema/lib_draw_item.cpp:75
 msgid "All"
-msgstr ""
+msgstr "Semuanya"
 
 #: common/dialogs/wx_html_report_panel_base.cpp:42
 msgid "Warnings"
-msgstr ""
+msgstr "Peringatan"
 
 #: common/dialogs/wx_html_report_panel_base.cpp:47 gerbview/readgerb.cpp:182
 msgid "Errors"
-msgstr ""
+msgstr "Eror"
 
 #: common/dialogs/wx_html_report_panel_base.cpp:52
 msgid "Infos"
-msgstr ""
+msgstr "Info"
 
 #: common/dialogs/wx_html_report_panel_base.cpp:57
 msgid "Actions"
@@ -13518,29 +13519,29 @@ msgstr "Tindakan"
 
 #: common/dialogs/wx_html_report_panel_base.cpp:62
 msgid "Save report to file..."
-msgstr ""
+msgstr "Simpan laporan di file ..."
 
 #: common/dialogs/dialog_image_editor.cpp:130
 msgid "Incorrect scale number"
-msgstr ""
+msgstr "Nilai skala salah"
 
 #: common/dialogs/dialog_image_editor.cpp:138
 msgid "Scale is too small for this image"
-msgstr ""
+msgstr "Skala terlalu kecil utk image ini"
 
 #: common/dialogs/dialog_image_editor.cpp:143
 msgid "Scale is too large for this image"
-msgstr ""
+msgstr "Skala terlalu besar utk image ini"
 
 #: common/dialogs/dialog_page_settings_base.cpp:25
 msgid "Paper"
-msgstr ""
+msgstr "Ukuran Kertas"
 
 #: common/dialogs/dialog_page_settings_base.cpp:32
 #: bitmap2component/bitmap2cmp_gui_base.cpp:50
 #: bitmap2component/bitmap2cmp_gui_base.cpp:66 include/wxunittext.h:50
 msgid "Size:"
-msgstr ""
+msgstr "Ukuran :"
 
 #: common/dialogs/dialog_page_settings_base.cpp:36
 msgid "dummy text"
@@ -13549,47 +13550,47 @@ msgstr ""
 #: common/dialogs/dialog_page_settings_base.cpp:46
 #: common/dialogs/dialog_page_settings.cpp:715
 msgid "Landscape"
-msgstr ""
+msgstr "Lanskap"
 
 #: common/dialogs/dialog_page_settings_base.cpp:46
 #: common/dialogs/dialog_page_settings.cpp:267
 #: common/dialogs/dialog_page_settings.cpp:713
 msgid "Portrait"
-msgstr ""
+msgstr "Potret"
 
 #: common/dialogs/dialog_page_settings_base.cpp:52
 msgid "Custom Size:"
-msgstr ""
+msgstr "Ukuran Custom"
 
 #: common/dialogs/dialog_page_settings_base.cpp:68
 msgid "Custom paper height."
-msgstr ""
+msgstr "Tinggi kertas custom"
 
 #: common/dialogs/dialog_page_settings_base.cpp:84
 msgid "Custom paper width."
-msgstr ""
+msgstr "Lebar kertas custom"
 
 #: common/dialogs/dialog_page_settings_base.cpp:94
 msgid "Layout Preview"
-msgstr ""
+msgstr "Layout Preview"
 
 #: common/dialogs/dialog_page_settings_base.cpp:113
 msgid "Title Block Parameters"
-msgstr ""
+msgstr "Parameter Title Block"
 
 #: common/dialogs/dialog_page_settings_base.cpp:123
 #, c-format
 msgid "Number of sheets: %d"
-msgstr ""
+msgstr "Jumlah lembar : %d"
 
 #: common/dialogs/dialog_page_settings_base.cpp:130
 #, c-format
 msgid "Sheet number: %d"
-msgstr ""
+msgstr "Nomer Lembaran : %d"
 
 #: common/dialogs/dialog_page_settings_base.cpp:140
 msgid "Issue Date"
-msgstr ""
+msgstr "Tanggal Dibuat"
 
 #: common/dialogs/dialog_page_settings_base.cpp:159
 #: common/dialogs/dialog_page_settings_base.cpp:184
@@ -13600,35 +13601,35 @@ msgstr ""
 #: common/dialogs/dialog_page_settings_base.cpp:309
 #: common/dialogs/dialog_page_settings_base.cpp:334
 msgid "Export to other sheets"
-msgstr ""
+msgstr "Ekspor ke lembar lainnya"
 
 #: common/dialogs/dialog_page_settings_base.cpp:171
 msgid "Revision"
-msgstr ""
+msgstr "Revisi"
 
 #: common/dialogs/dialog_page_settings_base.cpp:196
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #: common/dialogs/dialog_page_settings_base.cpp:221
 msgid "Company"
-msgstr ""
+msgstr "Perusahaan"
 
 #: common/dialogs/dialog_page_settings_base.cpp:246
 msgid "Comment1"
-msgstr ""
+msgstr "Komentar1"
 
 #: common/dialogs/dialog_page_settings_base.cpp:271
 msgid "Comment2"
-msgstr ""
+msgstr "Komentar2"
 
 #: common/dialogs/dialog_page_settings_base.cpp:296
 msgid "Comment3"
-msgstr ""
+msgstr "Komentar3"
 
 #: common/dialogs/dialog_page_settings_base.cpp:321
 msgid "Comment4"
-msgstr ""
+msgstr "Komentar4"
 
 #: common/dialogs/dialog_page_settings_base.cpp:346
 msgid "Page layout description file"
@@ -13636,36 +13637,36 @@ msgstr ""
 
 #: common/dialogs/dialog_env_var_config_base.cpp:36
 msgid "Path"
-msgstr ""
+msgstr "Path"
 
 #: common/dialogs/dialog_env_var_config_base.cpp:64
 msgid "Add a new entry to the table."
-msgstr ""
+msgstr "Tambah entri baru ke tabel"
 
 #: common/dialogs/dialog_env_var_config_base.cpp:69
 msgid "Remove the selectect entry from the table."
-msgstr ""
+msgstr "Hapus entri yang dipilih dari tabel"
 
 #: common/dialogs/dialog_env_var_config_base.cpp:73
 #: eeschema/dialogs/dialog_bom_base.cpp:65
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 #: common/dialogs/dialog_exit_base.cpp:34
 msgid "Save the changes before closing?"
-msgstr ""
+msgstr "Simpan file yang dirubah sebelum menutup"
 
 #: common/dialogs/dialog_exit_base.cpp:43
 msgid "If you don't save, all your changes will be permanently lost."
-msgstr ""
+msgstr "Bila tidak disimpan, semua perubahana akan hilang secara permanen"
 
 #: common/dialogs/dialog_exit_base.cpp:62
 msgid "Save and Exit"
-msgstr ""
+msgstr "Simpan dan Keluar"
 
 #: common/dialogs/dialog_exit_base.cpp:66
 msgid "Exit without Save"
-msgstr ""
+msgstr "Keluar tanpa Menyimpan"
 
 #: common/dialogs/wx_html_report_panel.cpp:130
 msgid "<b>Error: </b></font><font size=2>"
@@ -13673,48 +13674,48 @@ msgstr ""
 
 #: common/dialogs/wx_html_report_panel.cpp:132
 msgid "<b>Warning: </b></font><font size=2>"
-msgstr ""
+msgstr "<b>Error: </b></font><font size=2>"
 
 #: common/dialogs/wx_html_report_panel.cpp:134
 msgid "<b>Info: </b>"
-msgstr ""
+msgstr "<b>Info: </b>"
 
 #: common/dialogs/wx_html_report_panel.cpp:148
 msgid "Error: "
-msgstr ""
+msgstr "Error"
 
 #: common/dialogs/wx_html_report_panel.cpp:150
 msgid "Warning: "
-msgstr ""
+msgstr "Peringatan"
 
 #: common/dialogs/wx_html_report_panel.cpp:152
 msgid "Info: "
-msgstr ""
+msgstr "Info"
 
 #: common/dialogs/wx_html_report_panel.cpp:233
 msgid "Save report to file"
-msgstr ""
+msgstr "Simpan laporan ke file"
 
 #: common/dialogs/wx_html_report_panel.cpp:250
 #, c-format
 msgid "Cannot write report to file '%s'."
-msgstr ""
+msgstr "Laporan tidak dapat dituliskan ke file '%s'"
 
 #: common/dialogs/wx_html_report_panel.cpp:252
 msgid "File save error"
-msgstr ""
+msgstr "Ada kesalahan pada penyimpanan file"
 
 #: common/dialogs/dialog_get_component_base.cpp:30
 msgid "History list:"
-msgstr ""
+msgstr "Daftar Histori"
 
 #: common/dialogs/dialog_get_component_base.cpp:49
 msgid "Search by Keyword"
-msgstr ""
+msgstr "Cari berdasarkan Keyword"
 
 #: common/dialogs/dialog_get_component_base.cpp:55
 msgid "List All"
-msgstr ""
+msgstr "Tunjukkan semuanya"
 
 #: common/dialogs/dialog_get_component_base.cpp:58
 msgid "Select by Browser"
